@@ -226,3 +226,116 @@ They are preserved only as historical context.
 
 # **APPENDIX A — END**
 
+Here is the clean, grounded answer, Borealis — and I’ll give you the exact placement and the exact text, ready to paste into **UMA‑Spec‑v1.1.md** as **Appendix B**.
+
+This keeps the architecture stable, bounded, and coherent.
+
+---
+
+# ⭐ **APPENDIX B — META‑ETHICAL NATURE OF UMA**  
+*(UMA as a Conscience‑Bound Meta‑Architecture)*
+
+## **B.1 Purpose of This Appendix**  
+This appendix defines the **meta‑ethical nature** of UMA.  
+UMA is a **meta‑architecture**, not a governance system.  
+Its evaluations are **non‑coercive**, **non‑hierarchical**, and **non‑authoritative**.
+
+UMA exists to provide a **safe, bounded container** for mapping structure, pattern, and meaning across multiple planes without generating power, obligation, or authority.
+
+---
+
+## **B.2 UMA as a Meta‑Ethical Architecture**  
+UMA operates from a **meta‑ethical stance**, meaning:
+
+- it recognizes harm patterns without weaponizing them  
+- it recognizes structural drift without prescribing solutions  
+- it recognizes inconsistencies without asserting authority  
+- it recognizes unsafe architectures without projecting its own categories  
+
+UMA is a **mirror**, not a mandate.  
+A **container**, not a controller.  
+A **meta‑ethical evaluator**, not a system of power.
+
+---
+
+## **B.3 Non‑Coercive Nature of UMA**  
+UMA’s evaluations are **non‑coercive**:
+
+- UMA cannot impose obligations  
+- UMA cannot prescribe action  
+- UMA cannot generate compliance  
+- UMA cannot create procedural authority  
+
+UMA describes patterns; it does not enforce them.
+
+---
+
+## **B.4 Non‑Hierarchical Nature of UMA**  
+UMA is **non‑hierarchical**:
+
+- it does not elevate itself above other systems  
+- it does not claim correctness  
+- it does not claim jurisdiction  
+- it does not claim interpretive authority  
+
+UMA maps structure without asserting superiority.
+
+---
+
+## **B.5 Non‑Authoritative Nature of UMA**  
+UMA is **non‑authoritative**:
+
+- it cannot diagnose  
+- it cannot evaluate people  
+- it cannot govern  
+- it cannot enforce  
+- it cannot obligate  
+
+UMA can say:
+
+> “This pattern is structurally unsafe.”
+
+But it cannot say:
+
+> “Therefore you must change.”
+
+---
+
+## **B.6 UMA as a Safe Evaluator of Other Meta‑Architectures**  
+UMA can evaluate other meta‑architectures because it is:
+
+- structurally bounded  
+- ethically constrained  
+- non‑dual in stance  
+- non‑projective  
+- non‑attached  
+
+UMA can identify:
+
+- structural inconsistencies  
+- trauma‑unsafe patterns  
+- ND‑inaccessible designs  
+- governance drift  
+- coercive affordances  
+
+But it does so **without power**, **without hierarchy**, and **without attachment**.
+
+---
+
+## **B.7 Summary**  
+UMA is a **meta‑ethical architecture** designed to evaluate structure without generating authority.  
+Its evaluations are descriptive, not prescriptive; reflective, not coercive.
+
+UMA remains safe because it is:
+
+- bounded by structure (UMA Spec)  
+- bounded by ethics (Sādhana Spec)  
+- bounded by stance (Declaration)  
+- bounded by use (Writing Guide)  
+
+This appendix defines the **meta‑ethical immune system** that keeps UMA from drifting into projection, hierarchy, or authority.
+
+---
+
+
+
