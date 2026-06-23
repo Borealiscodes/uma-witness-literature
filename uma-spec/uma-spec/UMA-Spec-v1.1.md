@@ -84,8 +84,12 @@ UMA is a clean, multi‑plane way to describe systems without collapsing structu
 
 ---
 
-# **PREFACE NOTE — META‑ETHICAL ORIENTATION**  
-*(How to Approach UMA Without Misinterpretation)*
+# **UMA Specification (v1.x)**
+
+## **Core Spec — Structural Invariant**  
+**UMA is a non‑dual meta‑ethical architecture that reflects the patterns of other systems without imposing interpretation, generating authority, or collapsing difference.**
+
+---
 
 UMA is a **meta‑ethical architecture**, not a governance system.  
 It does not prescribe action, impose interpretation, or generate authority.  
