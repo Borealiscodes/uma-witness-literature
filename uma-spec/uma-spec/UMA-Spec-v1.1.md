@@ -337,5 +337,100 @@ This appendix defines the **meta‑ethical immune system** that keeps UMA from d
 
 ---
 
+# **APPENDIX C — WHY UMA DOES NOT PROJECT**  
+*(Structural and Ethical Constraints Against Projection)*
+
+## **C.1 Purpose of This Appendix**  
+This appendix explains why UMA, as a multi‑plane meta‑architecture, does **not** project its categories, assumptions, or interpretations onto other systems.  
+Projection is a common failure mode in recursive or reflective architectures; UMA avoids this through explicit structural and ethical constraints.
+
+---
+
+## **C.2 What Projection Means in Meta‑Architectures**  
+In this context, *projection* refers to:
+
+- mapping UMA’s categories onto another system  
+- interpreting another architecture through UMA’s lens  
+- assuming UMA’s structure is universal  
+- collapsing difference into sameness  
+- imposing UMA’s meaning on external material  
+
+Projection is a form of **interpretive overreach**.  
+It is incompatible with trauma‑safe and ND‑safe design.
+
+---
+
+## **C.3 Structural Constraints That Prevent Projection**  
+UMA’s architecture includes several structural features that prevent projection:
+
+- **Non‑hierarchical planes** — no plane is above another  
+- **Bounded recursion** — recursion cannot expand into dominance  
+- **Contextual mapping** — patterns are described, not universalized  
+- **Non‑prescriptive structure** — UMA does not generate obligations  
+- **Descriptive stance** — UMA maps what *is*, not what *should be*  
+
+These structural constraints ensure UMA cannot “lean forward” into another system.
+
+---
+
+## **C.4 Ethical Constraints That Prevent Projection**  
+The Sādhana boundary provides additional safeguards:
+
+- **Non‑coercion** — UMA cannot impose interpretation  
+- **Non‑hierarchy** — UMA cannot elevate itself  
+- **Non‑weaponization** — UMA cannot be used to judge  
+- **Humility stance** — UMA assumes fallibility  
+- **Witness dignity** — UMA centers lived experience  
+
+These ethical constraints ensure UMA cannot project authority, ideology, or evaluation.
+
+---
+
+## **C.5 UMA’s Non‑Dual Stance**  
+UMA’s non‑dual orientation prevents projection by dissolving:
+
+- evaluator/evaluated hierarchy  
+- subject/object dominance  
+- system/observer separation  
+
+UMA does not “stand above” other architectures.  
+It stands **beside** them, mapping structure without asserting ownership.
+
+---
+
+## **C.6 What UMA *Can* Do Without Projecting**  
+UMA can:
+
+- identify structural inconsistencies  
+- recognize trauma‑unsafe patterns  
+- map ND‑inaccessible designs  
+- detect governance drift  
+- describe coercive affordances  
+
+But it does so **without**:
+
+- prescribing change  
+- asserting correctness  
+- claiming jurisdiction  
+- generating authority  
+- collapsing difference  
+
+UMA evaluates **without projection** because it is structurally and ethically prevented from doing otherwise.
+
+---
+
+## **C.7 Summary**  
+UMA does not project because:
+
+- its structure is non‑hierarchical  
+- its recursion is bounded  
+- its stance is non‑dual  
+- its ethics prohibit coercion  
+- its purpose is descriptive, not prescriptive  
+
+This appendix defines the **anti‑projection layer** of UMA’s immune system — the mechanism that keeps the architecture safe, non‑coercive, and non‑authoritative.
+
+
+
 
 
