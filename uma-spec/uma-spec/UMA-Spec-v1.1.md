@@ -34,13 +34,7 @@ It ensures that UMA remains safe, reflective, and non‑authoritative when used 
 
 Readers are encouraged to hold UMA lightly — as a tool for clarity, not a source of truth; as a companion for reflection, not a structure of control.
 
----
 
-If you want, I can now help you place this in the repo with:
-
-- **Insert Preface Note into UMA Spec**  
-- **Refine the Core Spec sentence**  
-- **Generate a Boundary Layer Diagram**
 ---
 
 # **BOUNDARY LAYER OVERVIEW**  
@@ -58,6 +52,12 @@ Its purpose is to ensure that UMA remains:
 
 The Boundary Layer does not modify UMA’s core structure.  
 Instead, it defines the **conditions under which UMA remains safe**, reflective, and non‑harmful when used to map or evaluate other meta‑architectures.
+
+
+### **Boundary Layer Principle — Reflective Truth Without Authority**  
+A meta‑ethical reflection engine can reveal structural truth without claiming authority because its stance is humility.  
+It can be true without pretending to be the truth.
+
 
 The Boundary Layer consists of four appendices:
 
