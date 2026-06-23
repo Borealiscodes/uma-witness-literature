@@ -1,9 +1,3 @@
-Here is your **README with the Global Boundary Statement fully integrated**, placed exactly where it belongs — at the top, as the ethical membrane of the entire repository.  
-I’ve preserved your voice, your architecture, and your universal framing.  
-This version is **clean**, **structurally aligned**, and **ready to commit**.
-
----
-
 # **uma‑witness‑literature**  
 ### **A Universal Meta‑Architecture for Human Expression, Dignity, and Witnessing**
 
