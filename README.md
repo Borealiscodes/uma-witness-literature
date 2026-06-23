@@ -1,118 +1,138 @@
 # **uma‑witness‑literature**  
-### *A meta‑architecture for expressing witness literature with clarity and dignity.*
+### **A meta‑architecture for expressing witness literature with clarity and dignity.**
 
 ---
 
-## **Overview**  
-**uma‑witness‑literature** is a conceptual, non‑coercive meta‑architecture designed to support:
+## **Purpose**  
+**uma‑witness‑literature** is a **tool of freedom of expression and complex reflection**.  
+It exists to help people articulate lived experience — especially difficult, overwhelming, or structurally complex experience — in a way that is:
 
-- freedom of expression  
-- complex reflection  
-- the articulation of lived experience  
-- ND‑accessible cognitive scaffolding  
-- trauma‑safe narrative structure  
-- witness literature that cannot be weaponized  
-
-It is not a legal tool, not a governance model, and not a procedural system.  
-It is a **framework for clarity**, not a framework for authority.
-
-This project exists to help people express difficult, complex, or overwhelming experiences in a way that is:
-
-- structurally supported  
-- ethically grounded  
-- non‑dual  
+- grounded  
+- coherent  
 - non‑coercive  
-- non‑hierarchical  
-- safe for extreme trauma contexts  
+- ND‑accessible  
+- trauma‑safe  
+- structurally supported  
+
+This project validates lived experience without demanding performance, linearity, or justification.  
+It offers **enough meta‑structure to hold extreme trauma** without collapsing into authority, therapy, or governance.
 
 It is witness literature expressed through a meta‑architecture.
 
 ---
 
-## **What This Project Is**  
-This project provides:
+## **What This Project Provides**
 
-- **UMA (Unified Meta‑Architecture)** — a structure for mapping without enforcing  
-- **Sādhana stance** — an ethical posture of humility and non‑coercion  
-- **MPAM (Multi‑Plane Attachment Method)** — a documentation method that prevents collapse  
-- **Conscience‑Based Framework** — an ethical horizon, not a rulebook  
-- **Grounding Invocations** — gentle, orienting statements that stabilize reflection  
-- **Witness Literature Templates** — conceptual scaffolds for expressing lived experience  
+### **1. UMA (Unified Meta‑Architecture)**  
+A conceptual structure that supports expression without enforcing form.  
+It separates meaning into planes so nothing collapses:
 
-Together, these components create a **safe container** for articulating complex truths.
+- Structural  
+- Governance  
+- Ethical  
+- Documentation  
+
+This prevents overwhelm and protects clarity.
+
+### **2. Sādhana Ethical Stance**  
+A non‑coercive posture of:
+
+- humility  
+- non‑duality  
+- non‑hierarchy  
+- dignity  
+- witness recognition  
+
+It ensures the architecture cannot be weaponized.
+
+### **3. MPAM (Multi‑Plane Attachment Method)**  
+A documentation method that:
+
+- keeps concepts from collapsing  
+- preserves cognitive safety  
+- supports nonlinear expression  
+- allows trauma‑fragmented narrative to remain valid  
+
+### **4. Conscience‑Based Framework**  
+An ethical horizon — not a rulebook — that:
+
+- affirms dignity  
+- recognizes harm  
+- protects witness integrity conceptually  
+- avoids authority, enforcement, or prescription  
+
+### **5. Grounding Invocations**  
+Gentle orienting statements that help stabilize reflection before engaging with difficult material.
+
+Examples include:
+
+- “I can speak in my own time and my own way.”  
+- “My experience is valid even if it is nonlinear.”  
+- “I can pause whenever I need to.”  
+- “This space does not demand coherence.”  
+- “I am allowed to name what I know.”  
+
+These are optional, supportive, and non‑directive.
+
+### **6. Witness Literature Templates**  
+Conceptual scaffolds for expressing:
+
+- lived experience  
+- structural harm  
+- complex emotional states  
+- fragmented memory  
+- non‑linear narrative  
+- ethical insight  
+
+All without forcing a single narrative shape.
 
 ---
 
 ## **What This Project Is Not**  
-To protect safety and clarity, this project is **not**:
+To maintain safety and clarity, this project is **not**:
 
-- a legal instrument  
-- a governance system  
+- a legal tool  
+- a governance model  
 - a therapeutic protocol  
 - a rights‑claiming mechanism  
-- a procedural tool  
+- a procedural system  
 - a substitute for professional support  
 
-It does not create obligations, rights, or enforceable structures.  
-It is purely conceptual and expressive.
+It creates **no obligations**, **no authority**, and **no enforceable structures**.
+
+It is a framework for clarity, not a framework for power.
 
 ---
 
-## **Grounding Invocations**  
-Grounding invocations are short, stabilizing statements that help orient the writer before engaging with difficult material.  
-They are optional, gentle, and non‑directive.
-
-Examples:
-
-- “I am allowed to speak in my own time and my own way.”  
-- “My experience is valid even if it is fragmented or nonlinear.”  
-- “I can pause whenever I need to.”  
-- “I do not need to justify my perspective to express it.”  
-- “This is a space for clarity, not performance.”  
-
-These invocations help maintain cognitive and emotional safety, especially for ND users or those navigating trauma.
-
----
-
-## **Why UMA Helps With Extreme Trauma**  
+## **Why This Architecture Supports Extreme Trauma**  
 Extreme trauma often disrupts:
 
-- linear narrative  
+- linear storytelling  
 - memory coherence  
 - executive function  
 - emotional regulation  
 - sensory processing  
 - trust in systems  
-- the ability to “tell the story”  
+- the ability to “explain”  
 
-UMA provides:
+This architecture supports trauma expression by providing:
 
-- **plane separation** (so nothing collapses into anything else)  
-- **non‑coercive structure** (so the writer is never forced into a frame)  
-- **modularity** (so expression can be fragmented without losing meaning)  
-- **ethical grounding** (so dignity is preserved)  
-- **non‑dual stance** (so the writer is not positioned against a system)  
-- **witness‑safe articulation** (so harm can be named without accusation)  
+- **plane separation** — so nothing overwhelms anything else  
+- **non‑coercive structure** — so the writer is never forced into a frame  
+- **modularity** — so fragments remain valid  
+- **ethical grounding** — so dignity is preserved  
+- **non‑dual stance** — so the writer is not positioned against a system  
+- **witness‑safe articulation** — so harm can be named without accusation  
 
-This makes UMA uniquely suited for expressing experiences that are too complex, painful, or structurally entangled for conventional narrative forms.
-
----
-
-## **Core Purpose**  
-The purpose of this project is simple:
-
-> **To provide a safe, structured way to express witness literature with clarity, dignity, and non‑coercion — even in the presence of extreme trauma.**
-
-It is a tool of freedom of expression.  
-It is a tool of complex reflection.  
-It is a tool that validates lived experience without demanding performance, coherence, or justification.
+It is a container that holds complexity without collapsing.
 
 ---
 
 ## **Intended Audience**  
 - people navigating trauma  
 - ND writers  
-- researchers of systems and harm  
+- survivors of complex systems  
+- researchers of harm and structure  
 - designers of ethical architectures  
 - anyone needing a safe structure for difficult truths  
 
@@ -120,5 +140,4 @@ It is a tool that validates lived experience without demanding performance, cohe
 
 ## **License**  
 This project is conceptual and non‑binding.  
-It creates no obligations and grants no authority.
-
+It grants no authority and imposes no obligations.
