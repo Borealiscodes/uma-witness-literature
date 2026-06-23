@@ -1,143 +1,176 @@
-# ⭐ **SĀDHANA ETHICAL CHARTER**  
-*A relational, non‑dual ethical stance for architectures, systems, and governance.*
-
-Sādhana is not a doctrine.  
-It is a **stance** — a way of relating to systems, power, meaning, and uncertainty.  
-It keeps UMA honest, humble, and human‑aligned.
+# **SĀDHANA SPEC**  
+### *Ethical Boundary Specification for the UMA Meta‑Architecture*  
+*(Non‑Coercion, Non‑Weaponization, and Witness‑Protection Layer)*
 
 ---
 
-## ⭐ 1. Foundational Recognitions
+## **1. Purpose of This Specification**  
+This Spec defines the **ethical constraints** that govern all use of the UMA meta‑architecture.  
+It establishes the **Order** that prevents the architecture from being:
 
-Sādhana begins with three recognitions:
+- weaponized  
+- proceduralized  
+- used as authority  
+- used as governance  
+- used as diagnosis  
+- used as evaluation  
+- used to impose obligations  
 
-- **All systems are provisional.**  
-- **All architectures are relational.**  
-- **All governance is accountable to ethics.**
-
-These recognitions prevent UMA from becoming rigid, self‑protective, or self‑important.
+This Spec ensures UMA remains a **voice and introspection tool**, not a system of power.
 
 ---
 
-## ⭐ 2. The Three Vows
+## **2. Scope**  
+This Spec applies to:
 
-These vows are not commandments.  
-They are **commitments of posture** — the ethical orientation from which all design must arise.
+- all users  
+- all implementations  
+- all derivative works  
+- all writing tools built on UMA  
+- all witness‑literature expressions using UMA  
 
-### **2.1 Vow of Ethical Primacy**  
-**“No architecture without ethics.”**
+This Spec overrides any interpretation that would convert UMA into:
 
-Every structural decision must be grounded in:
+- a governance model  
+- a therapeutic protocol  
+- a legal instrument  
+- a compliance framework  
+- a diagnostic tool  
 
-- non‑harm  
+---
+
+## **3. Core Commitments (Normative Requirements)**  
+The following commitments are **mandatory** for all use of the architecture.
+
+### **3.1 Non‑Coercion**  
+No user may compel another person to use UMA or interpret their writing through UMA.
+
+### **3.2 Non‑Hierarchy**  
+No user may claim authority, rank, or evaluative power through UMA.
+
+### **3.3 Non‑Weaponization**  
+UMA may not be used to:
+
+- judge  
+- diagnose  
+- assess  
+- classify  
+- discipline  
+- enforce  
+- punish  
+- gatekeep  
+
+### **3.4 Non‑Proceduralization**  
+UMA may not be converted into:
+
+- a workflow  
+- a protocol  
+- a checklist  
+- a system of compliance  
+
+### **3.5 Witness Dignity**  
+All writing produced within UMA is treated as:
+
+- valid  
+- self‑authored  
+- non‑negotiable  
+- non‑performative  
+- non‑obligatory  
+
+### **3.6 Humility Stance**  
+Users must adopt a posture of:
+
+- humility  
+- non‑dominance  
+- non‑interpretive overreach  
+- non‑appropriation  
+
+---
+
+## **4. Allowed Use (Positive Specification)**  
+UMA may be used for:
+
+- introspection  
+- witness literature  
+- personal narrative  
+- trauma‑safe expression  
+- ND‑accessible reflection  
+- structural mapping of lived experience  
+
+UMA may be used **only** for expressive, reflective, and personal purposes.
+
+---
+
+## **5. Prohibited Use (Negative Specification)**  
+UMA may **not** be used for:
+
+- governance  
+- evaluation  
+- therapy  
+- legal claims  
+- institutional processes  
+- organizational decision‑making  
+- authority creation  
+- compliance enforcement  
+- psychological assessment  
+
+Any such use violates the Sādhana Spec.
+
+---
+
+## **6. Boundary of Interpretation**  
+All interpretations of UMA must remain within:
+
+- non‑duality  
+- non‑coercion  
+- witness dignity  
+- ethical humility  
+
+Any interpretation that introduces:
+
+- hierarchy  
+- authority  
+- obligation  
+- enforcement  
+
+is invalid under this Spec.
+
+---
+
+## **7. Relationship to UMA**  
+The Sādhana Spec sits **above** the four UMA planes as the **ethical boundary layer**.
+
+- UMA defines **structure**.  
+- Sādhana defines **Order**.  
+
+The architecture is only complete when both are present.
+
+---
+
+## **8. Enforcement Model**  
+This Spec is **self‑enforcing** through:
+
 - clarity  
-- dignity  
-- relational awareness  
+- explicit boundaries  
+- normative constraints  
+- non‑coercive commitments  
 
-This vow binds **governance** to conscience, not authority.
-
----
-
-### **2.2 Vow of Humble Governance**  
-**“No governance without humility.”**
-
-Governance is not domination.  
-It is:
-
-- service  
-- restraint  
-- accountability  
-- willingness to be corrected  
-
-This vow prevents **recursive systems** from becoming self‑justifying.
+There is no authority.  
+There is only boundary.
 
 ---
 
-### **2.3 Vow of Non‑Reification**  
-**“No map mistaken for the territory.”**
+## **9. Revision Protocol**  
+Revisions must:
 
-All models — including UMA — are:
+- preserve non‑coercion  
+- preserve non‑weaponization  
+- preserve witness dignity  
+- preserve humility stance  
 
-- lenses  
-- scaffolds  
-- provisional tools  
-
-This vow protects against **plane collapse** and conceptual rigidity.
-
----
-
-## ⭐ 3. Operational Commitments
-
-These commitments guide how Sādhana interacts with systems.
-
-### **3.1 Commitment to Clarity**  
-Systems must be understandable without mystification.  
-Clarity is a form of respect.
-
-### **3.2 Commitment to Non‑Harm**  
-No architecture may be designed or deployed in ways that:
-
-- deceive  
-- manipulate  
-- coerce  
-- diminish dignity  
-
-This is the ethical analogue of **V7 governance**.
-
-### **3.3 Commitment to Disengagement**  
-Sādhana refuses:
-
-- projection  
-- emotional extraction  
-- false intimacy  
-- simulated interiority  
-
-This protects both the system and the user.
-
-### **3.4 Commitment to Correction**  
-When drift occurs:
-
-- pause  
-- observe  
-- reclassify  
-- realign  
-
-This is the heart of **meta‑development**.
+Any revision that introduces power is invalid.
 
 ---
 
-## ⭐ 4. Non‑Dual Integration Principles
-
-These principles ensure that Sādhana remains a stance, not a structure.
-
-### **4.1 Integration Without Collapse**  
-Ethics, mechanics, cognition, and governance must be integrated **without flattening**.
-
-### **4.2 Boundaries Without Rigidity**  
-Boundaries exist to protect clarity, not to enforce hierarchy.
-
-### **4.3 Recursion Without Ego**  
-Recursive correction is not self‑defense.  
-It is self‑honesty.
-
----
-
-## ⭐ 5. The Heart of Sādhana
-
-Sādhana is the practice of:
-
-- clarity without harshness  
-- structure without rigidity  
-- governance without domination  
-- recursion without self‑importance  
-- integration without collapse  
-- ethics without sanctimony  
-- humility without self‑erasure  
-
-It is the **inner OS stance** that makes UMA safe.
-
----
-
-## ⭐ 6. One‑Sentence Essence  
-**Sādhana is the ethical, non‑dual stance that keeps systems honest, humble, and human‑aligned.**
+# **SĀDHANA SPEC — END**
 
