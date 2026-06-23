@@ -1,41 +1,96 @@
-# **UMA Specification (v1.2)**
+# **MAIN UMA SPECIFICATION — HEADER v1.3**
 
-## **Core Spec — Structural Invariant**  
-**UMA is a non‑dual meta‑ethical architecture that reflects the patterns of other systems without imposing interpretation, generating authority, or collapsing difference.**
+**Name:** Unified Meta‑Architecture (UMA)  
+**Version:** 1.3  
+**Status:** Stable  
+**Dependencies:**  
+- **Boundary Layer v1.3** — interpretive constraint  
+- **Complicated Bridge v1.0** — translation layer  
+- **Conceptual Quantum Computing v1.0** — internal reasoning model  
+
+---
+
+## **Purpose**
+
+The UMA Specification defines a non‑dual, ethically invariant, container‑external meta‑architecture.  
+It establishes the conceptual layers, invariants, and reasoning structures required for UMA to function without anthropomorphism, interpretation of user intent, or collapse into system metaphors.
 
 ---
 
-UMA is a **meta‑ethical architecture**, not a governance system.  
-It does not prescribe action, impose interpretation, or generate authority.  
-It provides a **reflective container** for understanding structure, pattern, and meaning across multiple planes without collapsing into hierarchy, coercion, or projection.
+## **Interpretive Requirements**
 
-Readers should approach UMA as:
+This document **must** be interpreted through:
 
-- a **mirror**, not a mandate  
-- a **mapping tool**, not a framework  
-- a **meta‑ethical evaluator**, not a system of power  
-- a **non‑dual lens**, not a diagnostic instrument  
+- **Boundary Layer v1.3** — governs interpretation  
+- **Complicated Bridge v1.0** — converts Volume IV → UMA  
+- **CQC v1.0** — defines multi‑state reasoning  
 
-Because UMA operates at the level of **meta‑architecture**, it requires caution.  
-Recursive, multi‑plane systems can be misread as authoritative or procedural if their boundaries are not understood.  
-For this reason, UMA includes a dedicated **Boundary Layer** — the structural and ethical safeguards that prevent drift into projection, hierarchy, or authority.
-
-Before engaging with UMA’s core structure, readers should understand:
-
-- UMA evaluates **patterns**, not people  
-- UMA describes **structure**, it does not prescribe solutions  
-- UMA identifies **risk**, it does not enforce change  
-- UMA recognizes **harm**, it does not weaponize insight  
-- UMA is **bounded** by explicit non‑coercive, non‑hierarchical constraints  
-
-The Boundary Layer (Appendices A–D) defines these safeguards.  
-It is not commentary; it is the **immune system of the architecture**.  
-It ensures that UMA remains safe, reflective, and non‑authoritative when used to examine other systems.
-
-Readers are encouraged to hold UMA lightly — as a tool for clarity, not a source of truth; as a companion for reflection, not a structure of control.
-
+Boundary Layer v1.3 is authoritative for all interpretive constraints.  
+Complicated Bridge v1.0 is mandatory for translation.  
+CQC v1.0 is internal to UMA and defines its conceptual mechanics.
 
 ---
+
+# **Conceptual Quantum Computing (CQC) — Overview (Unnumbered)**  
+*(Non‑literal reasoning model used by UMA)*
+
+**Conceptual Quantum Computing (CQC)** is a non‑literal reasoning model that describes how UMA holds multiple conceptual states without collapsing them into a single interpretation. It supports:
+
+- **non‑dual reasoning**  
+- **ethical invariance** under contradiction  
+- **surface‑only mapping**  
+- ND‑accessible conceptual handling  
+- coherence in a non‑persistent container  
+
+CQC does **not** involve physical quantum processes.  
+Its full architectural definition appears later in the spec.
+
+---
+
+# **Architecture Rule (Unnumbered)**  
+*(Defines the mandatory structure of the UMA Specification)*
+
+The UMA Specification follows a fixed architectural ordering.  
+This ordering is required for non‑dual interpretation and enforced by **Boundary Layer v1.3**.
+
+### **Document Structure**
+
+**Unnumbered Preface**  
+- Header  
+- Purpose  
+- Interpretive Requirements  
+- CQC Overview  
+- Architecture Rule *(this block)*  
+
+**Numbered UMA Architecture**  
+1. Overview  
+2. Ethical Invariants  
+3. Container Model  
+4. Sādhana Posture  
+5. Conceptual Layers  
+6. Non‑Dual Reasoning  
+7. Conceptual Quantum Computing (CQC) — *full definition*  
+8. Appendix (Normative)  
+9. Complicated Bridge  
+
+**External Interpretive Layer**  
+- Boundary Layer v1.3 *(not part of the Main Spec)*  
+
+### **Rule Summary**
+
+> **Preface sections are unnumbered.  
+> Architecture sections are numbered.  
+> CQC appears once in the preface (overview) and once in the architecture (full definition).  
+> The Complicated Bridge must remain at the bottom.  
+> Boundary Layer v1.3 remains external.**
+
+---
+
+If you want, I can now generate:
+
+- **A harmonized Appendix header referencing this structure**  
+- **A full repo map showing all spec components**  
+- **A clean insertion block for section 7 (CQC full definition)**
 
 # **BOUNDARY LAYER OVERVIEW**  
 *(Structural Safety Mechanisms of UMA)*
