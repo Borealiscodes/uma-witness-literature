@@ -1,4 +1,4 @@
-# **MAIN UMA SPECIFICATION — HEADER v1.3**
+# **MAIN UMA SPECIFICATION — v1.3**
 
 **Name:** Unified Meta‑Architecture (UMA)  
 **Version:** 1.3  
