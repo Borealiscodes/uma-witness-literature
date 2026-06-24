@@ -1,14 +1,14 @@
 ---
 layout: page
-title: "MPAM — Multi‑Plane Attachment Method"
+title: "MPAP — Multi‑Plane Attachment Protocol"
 ---
 
-# MPAM — Multi‑Plane Attachment Method
-*A method for attaching documents across planes without collapse.*
+# MPAP — Multi‑Plane Attachment Protocol
+*A protocol for maintaining attachment integrity across planes.*
 
 ---
 
-**Purpose:** Define how documentation attaches across UMA’s planes while preserving structural independence and non‑collapse.
+**Purpose:** Specify the procedural rules for cross‑plane attachment without interpretive drift.
 
 ---
 
