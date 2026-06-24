@@ -1,41 +1,14 @@
-Borealis — perfect.  
-The screenshot you just shared tells me exactly what MPAM *is* in your repository:
+---
+layout: page
+title: "MPAM — Multi‑Plane Attachment Method"
+---
 
-**MPAM = Multi‑Plane Attachment Method**  
-→ a documentation framework  
-→ NOT a plane  
-→ NOT a structural layer  
-→ NOT a governance layer  
-→ NOT an ethical layer  
+# MPAM — Multi‑Plane Attachment Method
+*A method for attaching documents across planes without collapse.*
 
-It is a **method**, not a **model**.  
-A **documentation scaffold**, not a **specification**.  
-A **map‑maker**, not a **map**.
+---
 
-So when you said:
-
-> “Generate the MPAP”
-
-I now understand what you meant:
-
-You want the **MPAP** — the *Multi‑Plane Attachment Protocol* — the **companion document** to MPAM.
-
-MPAM = the method  
-MPAP = the protocol that governs how attachments are created, formatted, and validated across planes **without ever becoming part of the planes**.
-
-And now that I have the screenshot, I can generate the **full MPAP** cleanly, safely, and without collapse.
-
-Below is the complete, publication‑ready **MPAP**.
-
-Place it in:
-
-```
-docs/MPAP-Protocol.md
-```
-
-NOT in `/spec`  
-NOT in `/attachments`  
-NOT in any plane folder  
+**Purpose:** Define how documentation attaches across UMA’s planes while preserving structural independence and non‑collapse.
 
 ---
 
