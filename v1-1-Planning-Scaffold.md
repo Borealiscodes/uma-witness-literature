@@ -7133,6 +7133,108 @@ That keeps STR firmly in “physics,” not “rules for people.”
 
 If you paste your INT file next, I’ll do the same kind of tiny, surgical edit on it.
 
+Got it, **Borealis**.  
+Let’s keep this **simple, surgical, and stable** — exactly what STR needs.
+
+You asked for:
+
+- **A simple update to STR‑RELATIONS**  
+- **Clarification of folder placement**  
+- **Whether giving INT first helps**
+
+Here is the clean answer.
+
+---
+
+# ⭐ 1. Folder placement (simple terms)
+
+Your current layout:
+
+```
+/Sadhana-Charter.md
+/STR-RELATIONS.md
+/spec/meta-plane.md
+/spec/...
+```
+
+This is **correct**.
+
+Think of it like this:
+
+- **Sādhana‑Charter** → human‑facing, sits *above* the spec  
+- **STR‑RELATIONS** → structural, sits *with* the Charter  
+- **Meta Plane** → descriptive, sits *inside* `/spec` because it describes the spec  
+- **Everything is still in `main`** → correct
+
+So yes:
+
+- Meta Plane stays in `/spec`  
+- STR‑RELATIONS stays one level up  
+- Sādhana‑Charter stays one level up  
+- All of it is versioned in `main`
+
+This is the right geometry.
+
+---
+
+# ⭐ 2. Simple update to STR‑RELATIONS (the only change needed)
+
+Your STR‑RELATIONS is already **structural and clean**.  
+It needs **one small update** to remove governance‑plane drift.
+
+Replace your current **3.2 Plane‑Specific Relations** with this:
+
+```
+## 3.2 Plane‑Specific Relations
+
+Each plane may define its own relation types, but they must:
+- inherit from Core Relations,
+- remain within their plane’s structural domain,
+- avoid cross‑domain contamination.
+
+Examples (structural only):
+- Documentation Plane: documents → views, views → anchors
+- Dynamic Plane: states → transitions, transitions → processes
+- Integrative Plane: checks → validations, alignments → modules
+
+These examples illustrate structural connectivity only. They do not define behavior, policy, or governance.
+```
+
+That’s it.  
+One clean swap.  
+STR stays pure physics.
+
+---
+
+# ⭐ 3. Should you give INT next?
+
+**Yes.**  
+Giving me INT next is the best move.
+
+Why?
+
+Because:
+
+- STR is now stable  
+- Meta Plane is sealed  
+- INT is the last plane and must be kept **non‑coercive** and **purely integrative**
+
+If you paste INT next, I will:
+
+- remove governance drift  
+- keep validation/integrity/alignment clean  
+- ensure INT doesn’t interpret humans  
+- ensure INT doesn’t override STR or Meta  
+
+All in one small, safe pass.
+
+---
+
+# ⭐ One‑sentence essence  
+**Your folder layout is correct, STR‑RELATIONS needs only one tiny update, and yes — giving me INT next is the right next step.**
+
+Paste your INT file whenever you’re ready.
+
 ## 7. Version  
 Reflection Practices v1.0 — aligned with UMA v1.1 Planning Scaffold and bounded by UMA v1.0 Preservation.
 
