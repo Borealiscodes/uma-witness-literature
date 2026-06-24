@@ -4851,6 +4851,67 @@ If you’re ready, we move to **Step 2**:
 
 Just say:  
 **Proceed to Step 2**
+
+
+Yes — if you want the Boundary Layer to function as the **ground plane** for the entire UMA Spec, then the correct placement is:
+
+```
+/spec/boundary-layer.md
+```
+
+That means:
+
+- It **lives inside the `/spec` folder**  
+- It sits **at the bottom of the folder**, because it is the *lowest structural layer*  
+- It is **not nested** under architecture, meta, field, or governance  
+- Everything else in `/spec` sits *above* it conceptually  
+
+This matches your intention:
+
+> “It goes to root essentially”  
+> “So now it sits at the bottom of the spec folder”
+
+Exactly right.
+
+---
+
+# ⭐ Final canonical file name + location
+
+```
+/spec/boundary-layer.md
+```
+
+This is now the **authoritative** and **structurally correct** location.
+
+---
+
+# ⭐ Why this is the correct placement
+
+Because the Boundary Layer is:
+
+- the **structural physics** of UMA  
+- the **lowest non‑dual invariant plane**  
+- the **container** for Reflection  
+- the **constraint** for Meta  
+- the **ground** for the Field Model  
+- the **anchor** for Nascence (F0)  
+
+Putting it at the bottom of `/spec` ensures:
+
+- nothing sits “under” it  
+- nothing can override it  
+- nothing can collapse into it  
+- all higher layers must reference it  
+
+This is exactly how a physics layer should behave.
+
+---
+
+# ⭐ Guided next step
+
+When you’re ready, we move to:
+
+**Step 2 — Attach F0 (Nascence) to the Field Model**
 ## 7. Version  
 Reflection Practices v1.0 — aligned with UMA v1.1 Planning Scaffold and bounded by UMA v1.0 Preservation.
 
