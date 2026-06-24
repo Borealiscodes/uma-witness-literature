@@ -1,3 +1,17 @@
+---
+layout: page
+title: "Ethical Plane Overview"
+---
+
+# Ethical Plane Overview
+*The plane that defines UMA’s non‑coercive interpretive stance.*
+
+---
+
+**Purpose:** Establish the ethical posture from which UMA is read, interpreted, and related to — without generating authority, hierarchy, or psychological influence.
+
+---
+
 # Ethical Plane Overview
 The Ethical Plane defines the stance from which a system is interpreted.  
 It is not about rules or structure — it is about posture, humility, and non‑authority.
