@@ -65,4 +65,91 @@ These are structural schemas, not semantic models.
 ---
 
 ## 3.3 Composite Structural Schemas
-Composite schemas
+Composite schemas apply to multi‑entity, multi‑relation, or multi‑constraint structures.
+
+Examples:
+- **Graph Schema** — defines allowed graph shapes  
+- **Registry Schema** — defines allowed registry structures  
+- **Map Schema** — defines allowed cross‑module mappings  
+
+Composite schemas must not introduce interpretation or narrative.
+
+---
+
+# 4. Schema Representation Rules
+
+## 4.1 Canonical Format
+All schemas must include:
+- a **name**  
+- a **type**  
+- a **description** (non‑interpretive)  
+- a **set of entities**  
+- a **set of relations**  
+- a **set of constraints**  
+- a **schema identifier**  
+- optional **attributes** (structural only)  
+
+Descriptions must not infer meaning beyond structure.
+
+---
+
+## 4.2 Composition Rules
+Schemas must:
+- reference only valid entities  
+- reference only valid relations  
+- reference only valid constraints  
+- maintain identifier stability  
+- avoid semantic or narrative content  
+
+Composition must be deterministic and non‑interpretive.
+
+---
+
+## 4.3 Attribute Rules
+Attributes must:
+- describe structure only  
+- avoid interpretive content  
+- avoid behavioral logic  
+- avoid developmental logic  
+
+Attributes are structural metadata.
+
+---
+
+# 5. Schema‑Level Constraints
+
+Schemas must not:
+- infer user intent  
+- encode narrative meaning  
+- collapse domains  
+- override governance  
+- introduce behavior  
+- introduce developmental sequencing  
+
+Schemas define *how structures assemble*, not *what they mean*.
+
+---
+
+# 6. Cross‑Module Relationships
+
+STR-SCHEMA interacts with:
+- **STR-ENTITIES** — schemas reference entities  
+- **STR-RELATIONS** — schemas reference relations  
+- **STR-CONSTRAINTS** — schemas reference constraints  
+- **STR-IDENTIFIERS** — schemas require stable identifiers  
+- **DOC-SCHEMA** — documentation describes schemas  
+- **INT-VALIDATION** — schemas are validated for coherence  
+
+Schemas are the composite structures of UMA.
+
+---
+
+# 7. Operational Signature
+STR-SCHEMA ensures:
+- structural composability  
+- non‑interpretive assembly  
+- cross‑plane stability  
+- referential clarity  
+- deterministic structural behavior  
+
+It is the module that defines *how structural components form higher‑order structures* in UMA’s architecture.
