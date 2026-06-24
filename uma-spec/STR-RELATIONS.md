@@ -1,10 +1,11 @@
 ---
-   layout: page
-   title: "STR-RELATIONS — Structural Relations Module"
+layout: page
+title: "STR-RELATIONS — Structural Relations Module"
 ---
 
 # STR-RELATIONS — Structural Relations Module
-   *Module defining UMA’s structural relationship types and their canonical forms.*
+*Module defining UMA’s structural relationship types and their canonical forms.*
+
 # 1. Purpose
 The STR-RELATIONS module defines UMA’s structural relationship types and their canonical forms.  
 Relations describe how entities connect, without introducing behavior, interpretation, or narrative.
@@ -36,29 +37,28 @@ If a relation appears in UMA, it must be defined here or in a child relation mod
 ## 3.1 Core Relations
 These are the foundational relation types of UMA’s architecture.
 
-- **Association** — a non‑hierarchical connection between entities  
+- **Association** — a non-hierarchical connection between entities  
 - **Containment** — an entity structurally contains another  
 - **Reference** — an entity points to another entity  
-- **Constraint‑Binding** — a constraint applies to an entity or relation  
+- **Constraint-Binding** — a constraint applies to an entity or relation  
 
-Core relations must remain domain‑neutral and non‑interpretive.
+Core relations must remain domain-neutral and non-interpretive.
 
 ---
 
-## 3.2 Plane‑Specific Relations
+## 3.2 Plane-Specific Relations
 Each plane may define its own relation types, but they must:
-- inherit from Core Relations  
-- remain within their plane’s domain  
-- avoid cross‑domain contamination  
+- inherit from Core Relations,  
+- remain within their plane’s structural domain,  
+- avoid cross-domain contamination.
 
-Examples (non‑exhaustive):
-- Documentation Plane: *documents → views*, *views → anchors*  
-- Governance Plane: *rules → constraints*, *invariants → permissions*  
-- Developmental Plane: *stages → prerequisites*, *sequences → stages*  
-- Dynamic Plane: *states → transitions*, *transitions → processes*  
-- Integrative Plane: *checks → validations*, *alignments → modules*  
+Examples (structural only):
+- Documentation Plane: documents → views, views → anchors  
+- Dynamic Plane: states → transitions, transitions → processes  
+- Integrative Plane: checks → validations, alignments → modules  
 
-These are structural categories, not behaviors.
+These examples illustrate structural connectivity only.  
+They do not define behavior, policy, or governance.
 
 ---
 
@@ -68,7 +68,7 @@ Composite relations are structures built from multiple relations.
 Examples:
 - **Graph** — a structured set of entities and relations  
 - **Map** — a representation of relationships across modules  
-- **Schema‑Link** — a relation embedded within a schema  
+- **Schema-Link** — a relation embedded within a schema  
 
 Composite relations must not introduce interpretation or narrative.
 
@@ -80,7 +80,7 @@ Composite relations must not introduce interpretation or narrative.
 All relations must include:
 - a **name**  
 - a **type**  
-- a **description** (non‑interpretive)  
+- a **description** (non-interpretive)  
 - a **source entity**  
 - a **target entity**  
 - an **identifier**  
@@ -94,8 +94,8 @@ Descriptions must not infer meaning beyond structure.
 Relation identifiers must be:
 - stable  
 - unique  
-- non‑semantic  
-- non‑interpretive  
+- non-semantic  
+- non-interpretive  
 - persistent across versions  
 
 Identifiers must not encode meaning, intent, or narrative.
@@ -113,8 +113,7 @@ Attributes are structural metadata.
 
 ---
 
-# 5. Relation‑Level Constraints
-
+# 5. Relation-Level Constraints
 Relations must not:
 - infer user intent  
 - encode narrative meaning  
@@ -127,8 +126,7 @@ Relations define *how entities connect*, not *what they mean* or *how they behav
 
 ---
 
-# 6. Cross‑Module Relationships
-
+# 6. Cross-Module Relationships
 STR-RELATIONS interacts with:
 - **STR-ENTITIES** — relations connect entities  
 - **STR-CONSTRAINTS** — constraints apply to relations  
@@ -144,8 +142,8 @@ Relations are the structural edges of UMA.
 STR-RELATIONS ensures:
 - canonical relation definitions  
 - stable structural connectivity  
-- non‑interpretive connections  
-- cross‑plane referential stability  
+- non-interpretive connections  
+- cross-plane referential stability  
 - structural clarity across UMA  
 
 It is the module that defines *how entities connect* in UMA’s architecture.
