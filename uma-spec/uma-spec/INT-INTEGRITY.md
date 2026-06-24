@@ -27,7 +27,6 @@ INT-INTEGRITY applies to:
 - all planes  
 - all modules  
 - all structural objects  
-- all governance rules  
 - all validation and alignment modules  
 - all versioned specifications  
 - all change processes  
@@ -64,20 +63,7 @@ Structural integrity preserves the soundness of the foundation.
 
 ---
 
-## 3.3 Governance Integrity
-Ensures governance rules remain consistent over time.
-
-Checks include:
-- invariants are not silently weakened or removed  
-- permissions are not expanded without explicit record  
-- governance constraints are not bypassed  
-- governance modules remain aligned with the Boundary Layer  
-
-Governance integrity preserves ethical and structural constraints.
-
----
-
-## 3.4 Cross-Plane Integrity
+## 3.3 Cross-Plane Integrity
 Ensures cross-plane relationships remain stable under change.
 
 Checks include:
@@ -90,7 +76,7 @@ Cross-plane integrity preserves domain separation over time.
 
 ---
 
-## 3.5 Boundary Integrity
+## 3.4 Boundary Integrity
 Ensures the architecture remains aligned with the Boundary Layer across versions.
 
 Checks include:
@@ -150,7 +136,6 @@ Integrity procedures must not:
 - infer user intent  
 - encode narrative meaning  
 - collapse domains  
-- override governance  
 - introduce behavior  
 - introduce developmental sequencing  
 
@@ -164,8 +149,6 @@ INT-INTEGRITY interacts with:
 - **INT-VALIDATION** — uses validation results to detect integrity risks  
 - **INT-ALIGNMENT** — uses alignment results to detect drift  
 - **INT-COHERENCE** — ensures coherence is preserved across versions  
-- **GOV-INVARIANTS** — enforces invariant stability  
-- **GOV-PERMISSIONS** — enforces permission stability  
 - **UMA-Spec version files** — ensures sealed specifications remain sealed  
 
 Integrity is the temporal and version-level safeguard of UMA.
@@ -176,9 +159,7 @@ Integrity is the temporal and version-level safeguard of UMA.
 INT-INTEGRITY ensures:
 - version stability  
 - structural non-drift  
-- governance-consistent evolution  
 - boundary-aligned change  
 - deterministic, non-interpretive preservation of the architecture  
 
 It is the module that defines *how UMA remains itself over time*.
-
