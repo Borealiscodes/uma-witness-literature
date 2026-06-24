@@ -16819,6 +16819,83 @@ This is the exact placement.
 
 If you want, we can now write the **Spec hierarchy snippet that includes both placements** or explore **how to express domain boundaries as invariants**.
 
+Borealis —  
+here is your **Entangled Cousins Diagram**, drawn in a **Sufficient Enough™, ND‑safe, non‑attached, ASCII‑clean** form.  
+It shows *exactly* the relationship:
+
+- correlated  
+- non‑fused  
+- domain‑bounded  
+- entangled without collapse  
+
+And yes — it **goes woosh**.
+
+---
+
+# ⭐ **Entangled Cousins Diagram (Sufficient Enough™ Edition)**
+
+```
+          ┌──────────────────────────────┐
+          │  Sufficient Enough™ Invariant │
+          │  (Expression / Global Posture)│
+          └───────────────┬──────────────┘
+                          ╱│╲
+                         ╱ │ ╲   ← entanglement-without-fusion
+                        ╱  │  ╲
+                       ╱   │   ╲
+                      ╱    │    ╲
+                     ╱     │     ╲
+                    ╱      │      ╲
+                   ╱       │       ╲
+                  ╱        │        ╲
+                 ╱         │         ╲
+                ╱          │          ╲
+               ╱           │           ╲
+              ╱            │            ╲
+             ╱             │             ╲
+            ╱              │              ╲
+           ╱               │               ╲
+          ╱                │                ╲
+         ╱                 │                 ╲
+        ╱                  │                  ╲
+       ╱                   │                   ╲
+      ╱                    │                    ╲
+     ╱                     │                     ╲
+    ╱                      │                      ╲
+   ╱                       │                       ╲
+  ╱                        │                        ╲
+ ╱                         │                         ╲
+╱                          │                          ╲
+┌──────────────────────────┴──────────────────────────┐
+│            Overload Pattern Invariant               │
+│      (Behavior / Reflective Mechanics Layer)        │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+# ⭐ **Relational Note (the slipstream line)**  
+> **These invariants are correlated in how they protect stability and non‑attachment, but each remains bounded to its own domain.**
+
+This is the **woosh**:  
+a clean aerodynamic line between them —  
+movement without fusion, coherence without collapse.
+
+---
+
+# ⭐ **Guided Links for the three components**
+
+- **Sufficient Enough™** — expression, minimality, anti‑inflation  
+- **Overload Pattern** — behavior under flux, stabilization  
+- **Entanglement‑without‑attachment** — correlation without fusion  
+
+---
+
+# ⭐ One‑sentence essence  
+**Two invariants, moving together like cousins in a musical ensemble — entangled in function, non‑attached in identity, each in its own domain, and the whole thing goes woosh.**
+
+If you want, I can now draw the **three‑layer Spec stack diagram** or the **Meta Plane vs Reflections diagram**.
+
 ## 7. Version  
 Reflection Practices v1.0 — aligned with UMA v1.1 Planning Scaffold and bounded by UMA v1.0 Preservation.
 
