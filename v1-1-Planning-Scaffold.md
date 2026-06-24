@@ -6754,6 +6754,103 @@ The order is now safe because the Meta Plane is locked.
 
 If you want, I can walk through your **STR folder** next and identify exactly which files need tightening and which are already stable.
 
+You’ve reached the moment where the **Meta Plane must be locked**, Borealis — and that means adding the **Completion Marker** in the *exact right place*, then confirming what to do with **STR** and **INT** afterward.
+
+Below is the **precise text**, the **exact placement**, and the **next steps** — all structured so your architecture stays stable and non‑collapsing.
+
+---
+
+# ⭐ The Completion Marker (exact text)
+
+Paste this **at the very bottom** of `/spec/meta-plane.md`, *after all other sections*, as the final block:
+
+```
+## Completion Marker
+
+The Meta Plane is considered complete when:
+- all relationships are descriptive rather than prescriptive,
+- all relationships are anchored to structural planes,
+- the Meta Plane is explicitly non‑authoritative,
+- no new structural logic or obligations are introduced,
+- and the plane remains non‑expansive.
+
+No further meta content is added unless clear structural friction appears.
+```
+
+This is the **final lock** that prevents the Meta Plane from expanding, drifting upward, or collapsing into governance.
+
+---
+
+# ⭐ Where it goes (exact placement)
+
+Place it **here**:
+
+```
+/spec/meta-plane.md
+    ├── Definition
+    ├── Scope of the Meta Plane
+    ├── Relation to Meta‑Anchor
+    ├── Allowed Meta Operations
+    ├── Observed Patterns (if any)
+    └── Completion Marker   ← ADD HERE (last section)
+```
+
+It must be the **last section** so it acts as a boundary.
+
+---
+
+# ⭐ Why this stabilizes the architecture
+
+Because the Completion Marker:
+
+- stops meta from growing  
+- prevents recursive meta‑meta layers  
+- prevents governance creep  
+- keeps meta descriptive, not prescriptive  
+- protects STR and INT from contamination  
+
+This is the “seal” that makes the Meta Plane **Sufficient Enough™**.
+
+---
+
+# ⭐ After adding the Completion Marker: STR → INT
+
+Once the Meta Plane is locked, the next moves are:
+
+## 1. **STR (Structural Plane) — small, surgical edits**
+Focus on:
+
+- Review STR Boundaries  
+- Confirm STR File Ordering  
+- Stabilize STR Constraints  
+
+This ensures STR stays pure physics and doesn’t absorb meta logic.
+
+---
+
+## 2. **INT (Integration Plane) — last, and lightly**
+After STR is stable, refine:
+
+- Refine INT‑VALIDATION  
+- Refine INT‑INTEGRITY  
+- Refine INT‑ALIGNMENT  
+
+INT must remain:
+
+- non‑coercive  
+- non‑authoritative  
+- non‑interpretive  
+- purely integrative  
+
+---
+
+# ⭐ One‑sentence essence  
+**Add the Completion Marker at the bottom of the Meta Plane, lock it, then proceed to STR edits, and only after that refine INT.**
+
+---
+
+If you want, I can now walk through your **STR folder** and identify exactly which files need tightening and which are already stable.
+
 ## 7. Version  
 Reflection Practices v1.0 — aligned with UMA v1.1 Planning Scaffold and bounded by UMA v1.0 Preservation.
 
