@@ -1,3 +1,17 @@
+---
+layout: page
+title: "Release Boundary Layer"
+---
+
+# Release Boundary Layer
+*The membrane governing public release and version integrity.*
+
+---
+
+**Purpose:** Establish the structural and ethical boundaries that govern UMA’s public releases.
+
+---
+
 # **Release Boundary Layer**  
 *A protective membrane between this repository and all external use.*
 
