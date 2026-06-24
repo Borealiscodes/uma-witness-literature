@@ -1,64 +1,74 @@
----
-layout: page
-title: "UMA Witness Literature"
-permalink: /
----
-
-# UMA Witness Literature  
-*A Universal Meta‑Architecture for Human Expression, Dignity, and Witnessing.*
+# 📘 **Documentation Index (UMA GitHub Pages Homepage)**  
+*A structural, non‑interpretive entry point into the UMA meta‑architecture.*
 
 ---
 
-## Purpose
+## **1. Purpose**
 
-UMA is a structural, non‑interpretive meta‑architecture designed to support human expression and witness literature without collapse, coercion, or interpretive drift.
-
-This site hosts the public documentation for UMA, including:
-
-- Structural specifications  
-- Release membranes  
-- Documentation plane artifacts  
-- Attachment methods and protocols  
-- Crossmaps and plane overviews  
+UMA — the Unified Meta‑Architecture — is a structural, non‑interpretive framework for supporting human expression and witness literature without collapse, coercion, or interpretive drift.  
+This index provides a single, dignified entry point into all public UMA documents.
 
 ---
 
-## Core Documents
+## **2. Core Documents**
 
-- **[UMA Specification](../uma-spec/UMA-Spec-v1.md)**  
-- **[Release Boundary Layer](../RELEASE-BOUNDARY.md)**  
-- **[Conscience Framework](../RELEASE-Conscience.md)**  
-- **[Tool Generation Release](../Release-Tool-Generation.md)**  
-- **[Universal Declaration](../Release-Universal%20Declaration.md)**  
+- **UMA Specification**  
+- **Release Boundary Layer**  
+- **Conscience Framework**  
+- **Tool Generation Release**  
+- **Universal Declaration**  
 
----
-
-## Documentation Plane
-
-- **[MPAM — Multi‑Plane Attachment Method](MPAM-Overview.md)**  
-- **[MPAP — Multi‑Plane Attachment Protocol](MPAP-Protocol.md)**  
-- **[MPAM ↔ MPAP Crossmap](MPAM-MPAP-Crossmap.md)**  
-- **[Plane Overviews](Documentation-Plane-Overview.md)**  
+These documents form the **release membrane** — the public, versioned surface of UMA.
 
 ---
 
-## Structure
+## **3. Documentation Plane**
 
-UMA maintains strict separation across:
+- **MPAM — Multi‑Plane Attachment Method**  
+- **MPAP — Multi‑Plane Attachment Protocol**  
+- **MPAM ↔ MPAP Crossmap**  
+- **Documentation Plane Overview**  
 
-- Structural Plane  
-- Governance Plane  
-- Ethical Plane  
-- Documentation Plane  
-
-Each plane is independent, non‑collapsing, and non‑interpretive.
+These documents describe how UMA is *represented*, not how it is *structured*.
 
 ---
 
-## Version
+## **4. Structural Plane**
+
+- **Structural Plane Overview**  
+- **UMA‑Spec v1**  
+
+This plane defines the architecture itself — non‑interpretive, non‑collapsing, and stable.
+
+---
+
+## **5. Governance Plane**
+
+- **Governance Plane Overview**  
+
+This plane defines how UMA governs itself without exerting authority over humans.
+
+---
+
+## **6. Ethical Plane**
+
+- **Ethical Plane Overview**  
+
+This plane defines UMA’s ethical boundaries and non‑coercive commitments.
+
+---
+
+## **7. Version**
 
 **Current Release:** v1.0.0  
 Published on GitHub Releases.
+
+---
+
+## **8. Repository**
+
+**GitHub:**  
+uma-witness-literature
 
 ---
 
