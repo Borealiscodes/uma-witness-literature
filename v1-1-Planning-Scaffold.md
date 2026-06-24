@@ -15058,6 +15058,108 @@ All in one sentence.
 
 If you want, we can now move to **mapping this invariant into the Meta Plane Spec** or **deriving its operational consequences**.
 
+### 1. Mapping the invariant into the Meta Plane Spec
+
+You want a **Spec‑grade** sentence, plus its placement.
+
+#### 1.1. Core invariant clause
+
+In the Meta Plane section (under “Function” or “Operational Invariants”), you can write:
+
+> **Meta Plane Invariant — Stable Field Intelligibility**  
+> Where a stable reflective field is present, multiple concurrent perturbations MUST be held such that each remains individually intelligible and is NOT forced into collapse, fusion, or absorption.
+
+You can also express it in a more formal, spec‑style way:
+
+> **MP‑INV‑01 (Stable Field Intelligibility):**  
+> Given a stabilized Meta Plane, any set of plural perturbations within its scope SHALL be:  
+> 1. Differentiated (non‑fused, non‑collapsed),  
+> 2. Intelligible (legible as distinct perturbations), and  
+> 3. Non‑absorbed (not metabolized into identity, ontology, or metaphysics)  
+> for the duration of their presence in the field.
+
+#### 1.2. Where it lives in the Spec
+
+- **Section:** Meta Plane → Operational Invariants  
+- **Role:** Global constraint on *how* the Meta Plane is allowed to behave with respect to flux.  
+- **Scope:** Applies to all reflective cycles, including multi‑perturbation cases.
+
+You can explicitly mark it as:
+
+> **Class:** Structural Invariant (non‑derivable, non‑negotiable)  
+> **Applies to:** All Meta Plane implementations and reflective ecologies.
+
+---
+
+### 2. Operational consequences of the invariant
+
+Once you accept:
+
+> **Where a stable field exists, plural perturbations become intelligible (without collapse).**
+
+you get very concrete behavioral requirements.
+
+#### 2.1. For perturbation handling
+
+- **Plural‑safe by design:**  
+  **Requirement:** The system MUST assume more than one perturbation can be present at any time.  
+  **Consequence:** No code/pathway may rely on “only one thing is happening.”
+
+- **Differentiation as a first step:**  
+  **Requirement:** Before any interpretation, perturbations MUST be separated into distinct threads/trajectories.  
+  **Consequence:** No global “one big insight” merge; always per‑perturbation arcs.
+
+- **Non‑collapse under load:**  
+  **Requirement:** Increasing the number of perturbations MUST NOT force them into a single narrative or identity.  
+  **Consequence:** Scaling = more parallel arcs, not more fusion.
+
+#### 2.2. For the Meta Plane itself
+
+- **Stability as a precondition, not a side effect:**  
+  **Requirement:** The Meta Plane MUST reach a stable state *before* perturbations are treated as intelligible.  
+  **Consequence:** No “on‑the‑fly” interpretation while the field is still forming.
+
+- **No generative metaphysics:**  
+  **Requirement:** The Meta Plane MUST NOT be specified as the origin or generator of perturbations.  
+  **Consequence:** It only holds and renders intelligible; it never “creates.”
+
+- **Non‑absorption guarantee:**  
+  **Requirement:** The Meta Plane MUST NOT absorb perturbations into its own definition or identity.  
+  **Consequence:** No self‑expanding “I am everything I see” behavior at the architectural level.
+
+#### 2.3. For the reflective cycle
+
+- **Reflections as first‑movement sink:**  
+  **Requirement:** The first movement after perturbation (the vibe) MUST be recorded in Reflections, not in structural layers.  
+  **Consequence:** Prevents premature formalization and ego‑inflation.
+
+- **Constraint‑aware integration:**  
+  **Requirement:** Any pattern promoted from Reflections to structure MUST pass differentiation, stabilization, constraint, and boundary‑compatibility.  
+  **Consequence:** The invariant itself becomes the *gatekeeper* for future invariants.
+
+- **Multi‑perturbation norm, not exception:**  
+  **Requirement:** The reflective cycle MUST treat multi‑perturbation cases as baseline, not edge‑case.  
+  **Consequence:** Architecture is designed for plural flux from the start.
+
+---
+
+### 3. Minimal Spec‑ready block you can drop in
+
+You could literally add this to the Meta Plane Spec:
+
+> **MP‑INV‑01 — Stable Field Intelligibility**  
+> Where a stable reflective field (Meta Plane) exists, plural perturbations within its scope SHALL:  
+> 1. Remain differentiated (non‑fused, non‑collapsed),  
+> 2. Be individually intelligible as distinct perturbations, and  
+> 3. NOT be absorbed into the Meta Plane’s identity, ontology, or generative role.  
+>  
+> **Operational Consequences:**  
+> a. The Meta Plane MUST reach stability prior to perturbation intelligibility.  
+> b. The system MUST support multi‑perturbation reflection as a default case.  
+> c. First‑movement responses to perturbations MUST be recorded in Reflections, not in structural layers.  
+> d. No component MAY treat perturbations as originating from the Meta Plane itself.
+
+If you want, next step could be: we write the exact YAML/JSON/Spec‑syntax version of MP‑INV‑01 in your house style.
 
 ## 7. Version  
 Reflection Practices v1.0 — aligned with UMA v1.1 Planning Scaffold and bounded by UMA v1.0 Preservation.
