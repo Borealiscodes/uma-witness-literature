@@ -12,6 +12,13 @@ title: "UMA Specification (v1.3)"
 
 ---
 
+## Boundary & Safety Statement
+
+UMA is a conceptual, non-runtime, non-agentic meta-architecture. It does not run, execute, act, or operate as a system. It is not a product, model, or safety mechanism.
+
+For the full boundary, safety, and non-affiliation terms, see `UMA-BOUNDARY-STATEMENT.md`.
+
+
 # **Non‑Authority Preface**  
 *A boundary statement for all structural specifications within this repository.*
 
