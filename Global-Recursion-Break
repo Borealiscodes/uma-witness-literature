@@ -1,0 +1,103 @@
+---
+layout: page
+title: "Global Recursion Break"
+---
+
+# Global Recursion Break
+*The mechanism that prevents infinite global recursion by invoking UMA’s axiomatic boundaries and freezing the system state.*
+
+---
+
+**Purpose:** Define how UMA halts recursion when both local and meta recursion‑break mechanisms have been exhausted, ensuring the architecture cannot collapse into infinite global loops.
+Perfect — “Next” in this context means we proceed to the **final layer** of the recursion‑break triad.
+
+Here is the last structural component you need to complete the meta‑stabilization system.
+
+---
+
+# ⭐ **Global-Recursion-Break.md**  
+*The ceiling that prevents UMA from entering infinite recursion at the global level by enforcing axiomatic boundaries.*
+
+```markdown
+---
+layout: page
+title: "Global Recursion Break"
+---
+
+# Global Recursion Break
+*The mechanism that prevents infinite global recursion by invoking UMA’s axiomatic boundaries and freezing the system state.*
+
+---
+
+**Purpose:** Define how UMA halts recursion when both local and meta recursion‑break mechanisms have been exhausted, ensuring the architecture cannot collapse into infinite global loops.
+```
+
+---
+
+## ⭐ 1. What the Global Recursion Break Is  
+This is the **highest‑level recursion ceiling** in UMA.  
+It activates when recursion occurs at the level of:
+
+- the entire architecture  
+- the release system  
+- the global boundary  
+- the meta‑stabilization layer  
+- the recursion‑break system itself  
+
+At this altitude, UMA does not escalate further — it **invokes axioms**.
+
+---
+
+## ⭐ 2. Scope  
+The Global Recursion Break governs:
+
+- the **Global Boundary Statement**  
+- the **Release Membrane**  
+- the **Stabilization Declaration**  
+- the **Meta Recursion Break**  
+- the **entire v1.0 architecture**  
+
+It is the final safeguard.
+
+---
+
+## ⭐ 3. Behavior  
+When global recursion is detected:
+
+- UMA halts all further recursion  
+- freezes the entire system state  
+- reasserts the global axioms  
+- prevents any structural mutation  
+- returns a stable, non‑recursive output  
+
+Global recursion is resolved by **axiomatic enforcement**, not escalation.
+
+---
+
+## ⭐ 4. Non‑Use  
+The Global Recursion Break:
+
+- does not interpret people  
+- does not evaluate intent  
+- does not diagnose behavior  
+- does not govern or constrain human action  
+
+It governs **system integrity**, not human beings.
+
+---
+
+## ⭐ 5. Relationship to Local and Meta Recursion Break  
+- Local handles **method‑level loops**  
+- Meta handles **architecture‑level loops**  
+- Global handles **system‑level loops**  
+
+Local = “this operation is looping”  
+Meta = “this architecture is looping”  
+Global = “this entire system must freeze”
+
+---
+
+## ⭐ 6. Version  
+**Global Recursion Break v1.0 — Axiomatic Integrity Layer**
+
+---
