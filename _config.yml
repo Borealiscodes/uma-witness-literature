@@ -11,6 +11,10 @@ highlighter: rouge
 # Navigation (top-level)
 header_pages:
   - docs/index.md
+  - docs/MPAM-Overview.md
+  - docs/MPAP-Protocol.md
+  - docs/MPAM-MPAP-Crossmap.md
+  - docs/Documentation-Plane-Overview.md
 
 # Minimal visual + accessibility tweaks
 minima:
