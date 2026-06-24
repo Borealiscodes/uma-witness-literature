@@ -1,3 +1,17 @@
+---
+layout: page
+title: "MPAM ↔ MPAP Crossmap"
+---
+
+# MPAM ↔ MPAP Crossmap
+*A structural mapping between method and protocol.*
+
+---
+
+**Purpose:** Show how MPAM and MPAP relate without collapsing their distinct functions.
+
+---
+
 # **MPAM ↔ MPAP Crossmap**  
 *A documentation-plane map of the relationship between the Multi‑Plane Attachment Method and the Multi‑Plane Attachment Protocol.*
 
