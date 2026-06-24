@@ -1,4 +1,23 @@
-# **MAIN UMA SPECIFICATION — HEADER v1.3**
+# **Non‑Authority Preface**  
+*A boundary statement for all structural specifications within this repository.*
+
+This specification does not govern, direct, assess, evaluate, or interpret any human being.  
+It does not define norms, prescribe behavior, or establish authority over meaning, identity, or experience.  
+It is a structural document only — a description of architecture, not a system of judgment.
+
+All meaning remains with the human.  
+All interpretation remains with the human.  
+All sovereignty remains with the human.
+
+The structures described here are **scaffolds**, not truths; **supports**, not substitutes; **maps**, not mandates.  
+They accompany but do not guide, illuminate but do not interpret, stabilize but do not diagnose.
+
+Nothing in this specification may be used to infer mental states, determine intent, evaluate credibility, or replace human care, legal protections, or therapeutic support.  
+Its purpose is clarity of structure, not authority over people.
+
+This preface applies universally across all components of the specification and must be read as a standing constraint on its use, implementation, and interpretation.
+
+# **MAIN UMA SPECIFICATION — v1.3**
 
 **Name:** Unified Meta‑Architecture (UMA)  
 **Version:** 1.3  
