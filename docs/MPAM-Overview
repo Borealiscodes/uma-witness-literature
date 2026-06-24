@@ -1,0 +1,130 @@
+---
+layout: page
+title: "MPAM — Multi‑Plane Attachment Method"
+---
+
+# MPAM — Multi‑Plane Attachment Method
+*A method for attaching documents across planes without collapse.*
+
+---
+
+**Purpose:** Define the structural method for creating attachments across UMA’s planes while preserving non‑collapse, plane separation, and representational integrity.
+
+---
+
+# 1. Method Overview
+MPAM is the **method** by which attachments are *constructed*.  
+It defines the **shape**, **form**, and **structural requirements** of an attachment before it is validated by MPAP.
+
+MPAM answers the question:
+
+**“What is the correct form of an attachment?”**
+
+It does not validate, interpret, or enforce — it only defines **how an attachment is built**.
+
+---
+
+# 2. What MPAM Is
+MPAM is a **method**, meaning:
+
+- It defines **form**, not rules  
+- It describes **how to construct**, not how to evaluate  
+- It applies **per‑attachment**, not system‑wide  
+- It ensures attachments are **structurally compatible** with UMA’s planes  
+
+MPAM is a **representational method**, not an interpretive one.
+
+---
+
+# 3. What MPAM Is Not
+MPAM is **not**:
+
+- a protocol  
+- a validator  
+- a rule‑set  
+- an interpretive framework  
+- a governance mechanism  
+
+Those functions belong to **MPAP**, not MPAM.
+
+---
+
+# 4. Structural Requirements of an Attachment
+An MPAM‑aligned attachment must:
+
+1. Maintain **plane separation**  
+2. Preserve **non‑collapse**  
+3. Declare its **plane of origin**  
+4. Declare its **target plane(s)**  
+5. Include a **non‑interpretive purpose statement**  
+6. Avoid any content that implies:  
+   - evaluation  
+   - authority  
+   - interpretation  
+   - psychological inference  
+   - normative judgment  
+
+MPAM defines these requirements as **method**, not enforcement.
+
+---
+
+# 5. Attachment Components (Method-Level)
+An attachment constructed under MPAM contains:
+
+- **Header Block** — identity, plane, purpose  
+- **Attachment Body** — the representational content  
+- **Boundary Statement** — ensures non‑interpretation  
+- **Traceability Line** — links to source plane  
+- **Non‑Collapse Marker** — ensures the attachment does not merge planes  
+
+These components define the *shape* of an attachment.
+
+---
+
+# 6. Relationship to MPAP
+MPAM = **How to build an attachment**  
+MPAP = **How to validate an attachment**
+
+They must remain separate to preserve:
+
+- plane integrity  
+- non‑collapse  
+- representational clarity  
+- structural independence  
+
+MPAM produces the **form**.  
+MPAP checks the **form**.
+
+---
+
+# 7. Relationship to the Crossmap
+The MPAM ↔ MPAP Crossmap describes:
+
+- how the method (MPAM) and protocol (MPAP) relate  
+- where they intersect  
+- where they must remain separate  
+- how attachments move across planes  
+
+The Crossmap does **not** replace either document.
+
+---
+
+# 8. Boundary Statement
+MPAM does not:
+
+- interpret  
+- evaluate  
+- diagnose  
+- prescribe  
+- govern  
+- infer mental states  
+- determine meaning  
+
+All meaning remains with the human.
+
+MPAM is a **structural method only**.
+
+---
+
+# 9. Version
+**MPAM v1.0 — Documentation Plane Component**
