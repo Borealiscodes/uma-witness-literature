@@ -114,17 +114,17 @@ Structural, governance, developmental, dynamic, and integrative planes remain di
 
 ---
 
-# **6. Operational Signature**
+## Operational Signature
 
-```
-The Boundary Layer maintains:
-- domain separation
-- non-interpretation
-- non-collapse
-- paradox stability
-- structural fidelity
-- non-coercive neutrality
-```
+The Boundary Layer enforces UMA’s structural physics. Its operational signature is the
+set of constraints that all higher layers must obey:
+
+- domain separation (no plane collapse)
+- non‑interpretation (no modeling of interiority or meaning)
+- non‑authority (no prescriptive or hierarchical posture)
+- container‑externality (UMA remains outside the human)
+- structural fidelity (relationships preserved without drift)
+- non‑coercive neutrality (no pressure toward conclusions or strategies)
 
 ---
 
