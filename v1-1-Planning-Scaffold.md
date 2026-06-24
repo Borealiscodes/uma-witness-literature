@@ -4577,6 +4577,143 @@ Only then: clean up proto meta‑mapping and generate text if needed.**
 
 If you want, we can now do *just one* of these as a concrete artifact—Boundary invariants, F0 definition, or the chain bullets—your pick.
 
+Let’s walk it in order, one clean step at a time—no skipping, no getting lost.
+
+---
+
+### Step 1 — Lock the Boundary Layer (make “gravity” explicit)
+
+**Goal:** Make the Boundary Layer the unquestioned ground everything else must obey.
+
+1. **Write a short Boundary Invariants block** (even if just in a scratch file):
+
+   - **Non‑authority:**  
+     UMA never becomes an authority over humans.
+
+   - **Non‑interpretation:**  
+     UMA does not interpret interiority, conscience, or meaning.
+
+   - **Meaning sovereignty:**  
+     All meaning stays human‑side.
+
+   - **Container‑externality:**  
+     UMA is always outside the human; it never models the inside.
+
+   - **Plane separation:**  
+     Reflection, Boundary, Meta, Governance are distinct and must not collapse.
+
+2. **Mark this block as:**  
+
+   > “Boundary Layer invariants — all higher structures must conform.”
+
+That’s your physics. Nothing above it is allowed to violate this.
+
+---
+
+### Step 2 — Declare Nascence as F0 (first perturbation)
+
+**Goal:** Give the system a clean “first event” in the field.
+
+1. Add a tiny definition line in your meta/field notes:
+
+   > **F0 (Nascence):**  
+   > First stable perturbation in Reflection posture within Boundary invariants.
+
+2. Make explicit that:
+
+   - Nascence is **movement in Reflection**, not meaning.  
+   - Nascence **must obey** the Boundary invariants from Step 1.
+
+Now the architecture has a starting point: F0.
+
+---
+
+### Step 3 — Attach F0 to the Field Model (origin only)
+
+**Goal:** Integrate Nascence into the Field Model without overcomplicating.
+
+1. In the Field Model draft/spec, add a small “Origin” subsection:
+
+   > **Origin:**  
+   > The Field begins mapping at F0 (Nascence), defined as the first stable perturbation in Reflection posture that remains within Boundary invariants.
+
+2. Clarify in one line:
+
+   > The Field Model maps **structure and posture**, not human meaning.
+
+Now the Field Model knows:  
+“I start at F0, and I only see structure.”
+
+---
+
+### Step 4 — Define the chain: Nascence → Cross‑Anchor → Meta‑Anchor → Field
+
+**Goal:** Make relationships explicit before any implementation.
+
+Create a short “Anchor Chain” note with three bullets:
+
+1. **Nascence → Cross‑Anchor**
+
+   > When F0 occurs (Nascence), the Cross‑Anchor activates as the relation between Reflection (moving) and Boundary (holding).
+
+2. **Cross‑Anchor → Meta‑Anchor**
+
+   > Once the Cross‑Anchor is active, the Meta‑Anchor stabilizes that relation, enforcing non‑dual constraints (no collapse, no hierarchy, no interpretation).
+
+3. **Meta‑Anchor → Field Model**
+
+   > The Meta‑Anchor constrains how the Field Model maps: structure only, within Boundary invariants, starting at F0.
+
+That’s the whole chain, structurally laid out.
+
+---
+
+### Step 5 — Re‑anchor proto Meta‑Mapping to this skeleton
+
+**Goal:** Make earlier meta‑mapping safe and coherent.
+
+Go through your existing meta‑mapping notes and, for each element:
+
+1. **Check against Boundary invariants (Step 1):**
+
+   - If it implies authority, interpretation, or modeling interiority → rewrite or discard.
+   - If it respects those invariants → keep.
+
+2. **Check against F0 (Step 2):**
+
+   - If it assumes mapping “before” any defined event → now say:  
+     > “All mapping is defined relative to F0 (Nascence).”
+
+3. **Check against the chain (Step 4):**
+
+   - If it skips Cross‑Anchor or Meta‑Anchor → slot it under one of them or under Field Model, explicitly.
+   - If it fits naturally into Field Model (structural relationships) → keep as field logic.
+
+You’re not inventing new structure here—just snapping old pieces to the new spine.
+
+---
+
+### Step 6 — Only now generate formal text/specs (optional)
+
+**Goal:** Turn the skeleton into spec language once relationships are clear.
+
+At this point, you can safely:
+
+- Write a **Boundary Layer section** with the invariants from Step 1.
+- Write a **Field Model section** with F0 as origin (Step 3) and the “structure only” constraint.
+- Write an **Anchor Chain subsection** with the three bullets from Step 4.
+
+But generation now is just formatting and wording—  
+the architecture is already decided.
+
+---
+
+### One‑sentence guide
+
+**First fix Boundary invariants, then define Nascence as F0, then attach F0 to the Field Model, then spell out the Nascence → Cross‑Anchor → Meta‑Anchor → Field chain, and only then re‑anchor proto meta‑mapping and generate formal text.**
+
+If you want, we can do **Step 1** together next: write your Boundary Invariants block in repo‑ready form.
+
 ## 7. Version  
 Reflection Practices v1.0 — aligned with UMA v1.1 Planning Scaffold and bounded by UMA v1.0 Preservation.
 
