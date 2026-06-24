@@ -28,7 +28,6 @@ INT-VALIDATION applies to:
 - all structural relations  
 - all structural constraints  
 - all schemas and composite structures  
-- all governance rules  
 - all documentation schemas  
 - all cross‑plane interactions  
 
@@ -57,8 +56,6 @@ Ensures planes do not collapse into each other.
 
 Checks include:
 - Documentation Plane references only structural objects  
-- Governance Plane rules do not override structure  
-- Developmental Plane sequences do not imply narrative  
 - Dynamic Plane transitions do not imply behavior  
 - Integrative Plane checks do not introduce interpretation  
 
@@ -66,16 +63,15 @@ Cross‑plane validation enforces domain separation.
 
 ---
 
-## 3.3 Governance‑Aligned Validation
-Ensures all modules comply with governance invariants.
+## 3.3 Integrity‑Aligned Validation
+Ensures all modules comply with structural invariants.
 
 Checks include:
 - invariants are respected  
-- permissions are not exceeded  
 - constraints are not violated  
 - cross‑plane rules are followed  
 
-Governance‑aligned validation ensures architectural integrity.
+Integrity‑aligned validation ensures architectural stability.
 
 ---
 
@@ -125,8 +121,8 @@ Validation rules check structure, not meaning.
 Validation identifiers must be:
 - stable  
 - unique  
-- non‑semantic  
-- non‑interpretive  
+- non-semantic  
+- non-interpretive  
 - persistent across versions  
 
 Identifiers must not encode meaning, intent, or narrative.
@@ -139,7 +135,6 @@ Validation procedures must not:
 - infer user intent  
 - encode narrative meaning  
 - collapse domains  
-- override governance  
 - introduce behavior  
 - introduce developmental sequencing  
 
@@ -155,8 +150,6 @@ INT-VALIDATION interacts with:
 - **STR-CONSTRAINTS** — validates constraint coherence  
 - **STR-IDENTIFIERS** — validates identifier stability  
 - **STR-SCHEMA** — validates schema integrity  
-- **GOV-INVARIANTS** — enforces invariant compliance  
-- **GOV-PERMISSIONS** — enforces permission boundaries  
 - **DOC-SCHEMA** — validates documentation structure  
 
 Validation is the integrative coherence mechanism of UMA.
@@ -167,7 +160,6 @@ Validation is the integrative coherence mechanism of UMA.
 INT-VALIDATION ensures:
 - structural coherence  
 - cross‑plane stability  
-- governance alignment  
 - referential clarity  
 - deterministic architectural behavior  
 - non‑interpretive integrity  
