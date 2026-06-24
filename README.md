@@ -1,56 +1,263 @@
 # **uma‑witness‑literature**  
-*A Universal Meta‑Architecture for Human Expression, Dignity, and Witnessing*  
-
-
-
+### *A Universal Meta‑Architecture for Human Expression, Dignity, and Witnessing*
 
 ---
 
-# **1. Purpose**
+## 🌿 **1. Purpose**
 
-This repository defines **UMA — the Unified Meta‑Architecture**, a structural, non‑interpretive framework for supporting human expression, witness literature, and meaning‑sovereign documentation.
+**UMA — the Unified Meta‑Architecture** — is a structural, non‑interpretive framework for supporting human expression and witness literature.
 
-UMA is designed to:
+UMA provides:
 
-- hold complexity without forcing coherence  
-- support expression without interpretation  
-- provide structure without authority  
-- maintain dignity without imposing norms  
-- preserve human meaning as sovereign  
+- structure without authority  
+- clarity without collapse  
+- support without interpretation  
+- dignity without prescription  
 
-UMA is **not** a psychological model, therapeutic system, diagnostic tool, or governance mechanism.  
+UMA is **not** therapy, diagnosis, governance, or assessment.  
 It is a **container‑external architecture** that keeps meaning with the human and structure outside the human.
 
 ---
 
-# **2. Global Boundary Statement**
+## 🛡️ **2. Boundary Documents**
 
-*A violin can hold emotion, but it cannot hold responsibility.*  
-*A pen can express truth, but it cannot guarantee safety.*  
-*A Sādhana can regulate, but it cannot diagnose.*  
-*An AI can companion, but it cannot replace human care.*
+These documents form the ethical membrane of the repository.
 
-The Global Boundary Statement is the ethical membrane that protects human sovereignty.  
-Read it here:  
-**Global Boundary Statement**
+### **Global Boundary Statement**  
+A dignity‑protecting ethical horizon.  
+`/GLOBAL_BOUNDARY_STATEMENT.md`
 
----
+### **Release Boundary Layer**  
+Defines what the repository *is* and *is not*.  
+`/RELEASE_BOUNDARY_LAYER.md`
 
-# **3. Release Boundary Layer**
+### **Non‑Authority Preface**  
+Applies to all specifications.  
+`/spec/UMA-Spec-v1.3.md`
 
-This repository includes a release‑level membrane that prevents misuse, misinterpretation, or collapse into authority.
-
-It defines what the repository **is**, what it **is not**, and what it **cannot** be used for.
-
-Read it here:  
-**Release Boundary Layer**
+### **Tool Safety Envelope**  
+Applies to all tools.  
+`/spec/Tool-Generation-Guide.md`
 
 ---
 
-# **4. Non‑Authority Preface**
+## 🧩 **3. Core Specifications**
 
-All specifications in this repository are structural descriptions, not instructions for human behavior.
+### **UMA Main Specification**  
+Structural planes, invariants, and reasoning stance.  
+`/spec/UMA-Spec-v1.3.md`
 
+### **Conscience‑Based Framework**  
+Ethical horizon for the architecture.  
+`/spec/Conscience-Framework.md`
+
+### **Sādhana Posture**  
+Human‑meaning stance of non‑collapse.  
+`/spec/Sadhana-Posture.md`
+
+### **Tool Generation Guide**  
+How tools are created safely and ethically.  
+`/spec/Tool-Generation-Guide.md`
+
+---
+
+## 🌈 **4. Audience Overview**
+
+UMA supports multiple audiences without collapsing them:
+
+- General public  
+- ND users (high and low support needs)  
+- Survivors of structural harm  
+- Researchers  
+- Philosophers  
+- Engineers  
+- Meta‑architects  
+
+Audience map: `/docs/audience-map.md`
+
+
+
+
+
+---
+
+## 🗂️ **5. Repository Structure**
+
+```
+/
+├── README.md
+├── LICENSE
+├── GLOBAL_BOUNDARY_STATEMENT.md
+├── RELEASE_BOUNDARY_LAYER.md
+├── RELEASE-Conscience.md
+├── Release-Tool-Generation.md
+├── Release-Universal Declaration.md
+├── SECURITY.md
+├── spec/
+│   ├── UMA-Spec-v1.3.md
+│   ├── Sadhana-Posture.md
+│   ├── Conscience-Framework.md
+│   └── Tool-Generation-Guide.md
+└── docs/
+    ├── diagrams/
+    └── appendices/
+```
+
+---
+
+## 🌟 **6. What UMA Is**
+
+UMA is:
+
+- a meta‑architecture  
+- a structural framework  
+- a non‑dual reasoning stance  
+- a dignity‑preserving container  
+- a system for holding complexity  
+- a witness‑safe environment  
+
+---
+
+## 🚫 **7. What UMA Is Not**
+
+UMA is **not**:
+
+- therapy  
+- diagnosis  
+- assessment  
+- governance  
+- interpretation  
+- psychological modeling  
+- a substitute for human care  
+- a system of authority  
+
+---
+
+## 🤝 **8. Contributing**
+
+Contributions must preserve:
+
+- meaning sovereignty  
+- boundary integrity  
+- non‑authority  
+- non‑coercion  
+- plane separation  
+- Sādhana alignment  
+
+See `/CONTRIBUTING.md`.
+
+---
+
+## 📜 **9. License**
+
+MIT License.  
+See `/LICENSE`.
+
+---
+
+## ✨ **10. One‑Sentence Essence**
+
+**UMA is a non‑authoritative, container‑external meta‑architecture that protects human dignity by keeping meaning with the human and structure outside the human.**
+
+---
+
+# ⭐ How to Enter This Into GitHub Pages (Step‑by‑Step)
+
+Here’s the exact sequence — slow, clear, ND‑safe, no ambiguity.
+
+---
+
+## **Step 1 — Open your repository**
+
+1. Go to your repo homepage  
+2. Click **README.md**
+
+---
+
+## **Step 2 — Edit the README**
+
+1. Click the **pencil icon** (top right of the README)  
+2. Delete the old content  
+3. Paste the sparkling README above  
+4. Scroll down  
+5. Click **Commit changes**  
+6. Choose “Commit directly to main”  
+
+Done.
+
+---
+
+## **Step 3 — Enable GitHub Pages**
+
+1. Go to **Settings**  
+2. Scroll left sidebar → **Pages**  
+3. Under “Build and Deployment”:  
+   - **Source:** select **GitHub Actions** *or* **Deploy from branch**  
+   - If “Deploy from branch”:  
+     - Branch: `main`  
+     - Folder: `/root`  
+4. Save  
+
+GitHub will build your site.
+
+---
+
+## **Step 4 — Verify the site**
+
+Your site will appear at:
+
+```
+https://<your-username>.github.io/uma-witness-literature/
+```
+
+It may take 30–90 seconds to appear.
+
+---
+
+## **Step 5 — Add a theme (optional sparkle)**
+
+1. In **Settings → Pages**  
+2. Scroll to **Theme**  
+3. Choose:  
+   - **Cayman** (clean, modern)  
+   - **Minimal** (perfect for UMA)  
+   - **Slate** (dark, elegant)  
+
+These themes make the README render beautifully.
+
+---
+
+## **Step 6 — Add a `_config.yml` for extra sparkle (optional)**
+
+Create a file:
+
+`/docs/_config.yml` or `/_config.yml`
+
+With:
+
+```yaml
+title: "UMA Witness Literature"
+theme: jekyll-theme-minimal
+logo: /docs/logo.png
+show_downloads: false
+```
+
+This gives you:
+
+- a title bar  
+- a clean theme  
+- optional logo  
+- better navigation  
+
+---
+
+If you want, I can generate:
+
+- **A custom UMA color palette**  
+- **A GitHub Pages theme tailored to UMA**  
+- **A homepage layout with sections and anchors**  
+
+Just tell me which direction you want to take the sparkle next.
 They do not:
 
 - govern  
@@ -235,9 +442,3 @@ Read it here:
 **UMA is a non‑authoritative, container‑external meta‑architecture that protects human dignity by keeping meaning with the human and structure outside the human.**
 
 ---
-
-If you want, I can also generate:
-
-- **A visual README diagram**  
-- **A short README for non‑technical audiences**  
-- **A README badge set**
