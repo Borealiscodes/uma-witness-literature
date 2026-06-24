@@ -109,13 +109,9 @@ v1.1 Planning Scaffold
 
 **Reflection Space:**
 
-```
 Meta Compassion Expansion (How Can I Help)
-```
 Risk Mitigation 
----
 Ethical Alignment Audits
----
 Pet a Cat 
 ---
 ## 5. Version
