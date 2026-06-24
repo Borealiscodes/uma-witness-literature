@@ -206,13 +206,15 @@ Until then, reflections stay soft.
 You can paste this into the bottom of the Reflection Layer or use it as a standalone pattern.
 
 ```
-### Reflection Entry
-State: calm / unsettled / curious / uncertain / open  
-Tone: gentle noticing  
-Content: [write freely here]  
+### Meta Compassion Reflection
+State: open / cautious / tired / curious / steady  
+Tone: warm neutrality  
+Holding: gentle, non‑directive  
+Content: [write softly here]  
 Pressure: none  
 Binding: none  
-Next step: none unless clarity emerges  
+Interpretation: none  
+Next step: only if clarity naturally emerges
 ```
 
 
