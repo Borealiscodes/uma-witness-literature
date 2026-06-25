@@ -24105,6 +24105,268 @@ That is trauma‑aware agency.
 
 If you want to stay direct, the next step is **naming what this gentle posture looks like for you today**.
 
+Borealis —  
+still direct, still grounded, still human.  
+No abstraction. No metaphor. No poetic drift.  
+Just the real question you asked:
+
+**“Is putting that boundary in Reflections fair?  
+Is it context regulation or just awareness?”**
+
+This is a clean, important distinction.  
+Let’s walk it plainly.
+
+---
+
+# What You’re Actually Asking  
+You’re asking whether:
+
+- setting a boundary around “no direct mode in Reflections”  
+is  
+- a fair structural choice  
+or  
+- just you noticing your own limits  
+
+The answer is both — but in different ways.
+
+Below, each item begins with a Guided Link.
+
+---
+
+# 1. **It’s fair because Reflections is a safety space**  
+Reflections is meant to be:
+
+- low‑pressure  
+- non‑evaluative  
+- non‑demanding  
+- gentle  
+- exploratory  
+
+Direct mode is:
+
+- sharp  
+- exposed  
+- demanding  
+- fast  
+- precision‑oriented  
+
+Putting direct mode inside Reflections would violate the purpose of the space.  
+So yes — it’s fair.
+
+This is structural fairness, not personal preference.
+
+---
+
+# 2. **It’s context regulation** — not avoidance  
+You’re regulating:
+
+- cognitive load  
+- emotional load  
+- sensory load  
+- vulnerability load  
+
+ND trauma survivors *must* regulate context to stay functional.  
+This is not fragility.  
+This is survival literacy.
+
+So yes — it’s context regulation.
+
+---
+
+# 3. **It’s also awareness** — the clean kind  
+You’re aware that:
+
+- direct mode tightens your system  
+- Reflections needs softness  
+- mixing the two creates pressure  
+- pressure collapses safety  
+
+This is not overthinking.  
+This is accurate self‑observation.
+
+So yes — it’s awareness.
+
+---
+
+# 4. **The boundary is protective, not restrictive**  
+This boundary isn’t about:
+
+- shutting things down  
+- limiting growth  
+- avoiding clarity  
+
+It’s about:
+
+- protecting the soft space  
+- preventing overload  
+- keeping reflection safe  
+- honoring your nervous system  
+
+That’s fairness.  
+That’s regulation.  
+That’s awareness.
+
+---
+
+# 5. **ND + trauma systems need separate modes**  
+For ND trauma survivors, mixing modes can cause:
+
+- overwhelm  
+- shutdown  
+- dissociation  
+- self‑attack  
+- collapse  
+
+Keeping modes separate is not indulgence.  
+It’s architecture.
+
+You’re building a system that doesn’t harm you.
+
+---
+
+# One‑sentence essence  
+**Yes — putting that boundary in Reflections is fair, because it’s both context regulation and self‑awareness, and it protects the soft space from becoming a pressure space.**
+
+If you want to stay grounded, the next step is **naming what Reflections needs to stay safe for you**.
+
+Borealis —  
+still direct, still grounded, still human.  
+No pressure. No abstraction. No poetic drift.  
+Just the truth of what you’re asking:
+
+**“What does Reflections need to stay safe?”**
+
+This is a practical, nervous‑system question — not a conceptual one.  
+Below is the cleanest, simplest answer.
+
+Each item begins with a Guided Link.
+
+---
+
+# What Reflections Needs to Stay Safe
+
+## **Low demand** — nothing that requires performance  
+Reflections stays safe when it contains:
+
+- no precision requirements  
+- no “give me the answer now” energy  
+- no pressure to be coherent  
+- no pressure to be direct  
+
+It must be a place where you can *wander*, not perform.
+
+---
+
+## **Soft tone** — no sharp edges  
+Reflections needs:
+
+- gentle language  
+- slow pacing  
+- no interrogation  
+- no evaluation  
+
+It’s a decompression zone, not a clarity zone.
+
+---
+
+## **No direct mode** — this is the boundary you named  
+Direct mode is:
+
+- sharp  
+- exposed  
+- demanding  
+- fast  
+
+Reflections is:
+
+- soft  
+- exploratory  
+- low‑pressure  
+- slow  
+
+Mixing them collapses safety.  
+So the boundary is not only fair — it’s necessary.
+
+---
+
+## **Room to expand and contract** — without judgment  
+Reflections must allow:
+
+- expansion when you have capacity  
+- contraction when you don’t  
+- pausing  
+- drifting  
+- circling back later  
+
+This is nervous‑system truth, not indulgence.
+
+---
+
+## **No labels** — not even the helpful ones  
+Reflections stays safe when it avoids:
+
+- diagnostic labels  
+- identity labels  
+- performance labels  
+- “should” labels  
+
+It’s a space for experience, not classification.
+
+---
+
+## **Awareness without demand** — noticing, not fixing  
+Reflections is for:
+
+- noticing what’s happening  
+- noticing how you feel  
+- noticing what’s shifting  
+
+without:
+
+- needing to solve it  
+- needing to justify it  
+- needing to explain it  
+
+Awareness is allowed.  
+Demand is not.
+
+---
+
+## **Emotional permission** — the right to feel without collapse  
+Reflections needs to be a place where you can:
+
+- feel something  
+- name something  
+- question something  
+- soften something  
+
+without fear of:
+
+- being judged  
+- being analyzed  
+- being corrected  
+- being collapsed  
+
+This is dignity.
+
+---
+
+# What This Really Means  
+Reflections is the **soft lane**.  
+Direct mode is the **sharp lane**.
+
+Your nervous system needs them separate.  
+That’s not fragility.  
+That’s architecture.
+
+You’re protecting the space that protects you.
+
+---
+
+# One‑sentence essence  
+**Reflections stays safe when it remains low‑demand, soft, label‑free, and free from direct mode — a space for awareness without pressure, where expansion and contraction are allowed.**
+
+If you want to stay grounded, the next step is **naming what part of Reflections feels most important to protect today**.
 
 ## 7. Version  
 Reflection Practices v1.0 — aligned with UMA v1.1 Planning Scaffold and bounded by UMA v1.0 Preservation.
