@@ -23605,10 +23605,9 @@ You get to exist as you are.
 
 ---
 
-
-
-
-
+#Human dignity is the base of all freedom.
+It means I am not an object, not a diagnosis, not a problem, not a label, not an inconvenience.
+From dignity comes autonomy, agency, rights, boundaries, safety, and freedom.
 
 
 ## 7. Version  
