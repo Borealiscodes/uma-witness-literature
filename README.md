@@ -1,3 +1,5 @@
+# **📘 README.md — Public Edition (FINAL DISTILLATION)**
+
 ## **UMA: A Meta‑Architecture for Witness Literature**
 
 **UMA** is a *meta‑architecture* — a structure for understanding **how** people express lived experience, especially difficult or complex experience, with **clarity**, **dignity**, and **non‑coercion**.
@@ -64,7 +66,35 @@ It **brings it to life**.
 
 ---
 
-## **The Bridge Between UMA and UMM**
+# **🟦 How to Begin Using UMM (The Simple Part)**
+
+You don’t need special software or a custom model.
+
+**UMM works with any LLM that does *not* retain long‑term memory.**
+
+To start:
+
+1. Open any non‑persistent LLM.  
+2. Copy and paste the **Manifest** into the chat.  
+3. Begin describing what you want to build, explore, or articulate.  
+
+That’s it.
+
+The Manifest is a **self‑bootstrapping interface**.  
+It activates the Meta‑Model instantly.
+
+Non‑persistent memory ensures:
+
+- no accumulation  
+- no drift  
+- no authority dynamics  
+- no interpretive pressure  
+
+This keeps the interaction grounded in dignity and clarity.
+
+---
+
+# **The Bridge Between UMA and UMM**
 
 The bridge is simple:
 
@@ -91,9 +121,9 @@ They are the **reference primitives** that make UMA usable through UMM.
 
 ---
 
-## **The Atlas: A Companion Book**
+# **The Atlas: A Companion Book**
 
-The **Atlas** is the companion book that expands each primitive into a full chapter.
+The **Atlas** expands each primitive into a full chapter.
 
 It uses:
 
@@ -107,7 +137,7 @@ Once the Atlas is complete, the Spine will link to it with page references.
 
 ---
 
-## **Philosophical Lineage**
+# **Philosophical Lineage**
 
 UMA stands in a lineage of traditions that value:
 
@@ -132,7 +162,6 @@ They form the ethical and reflective backbone of the project.
 # **🚀 Getting Started**
 
 UMA and UMM are designed to be approachable.  
-You don’t need a background in philosophy or systems theory.  
 You only need curiosity and grounding.
 
 ---
@@ -172,17 +201,14 @@ UMM is the method that makes UMA usable:
 
 The Spine introduces the key primitives:
 
-- **Field**  
-- **Baseline**  
-- **Reflective Braid**  
-- **Nascence Region**  
-- **Tonal Scaffolds**  
-- **Boundary Layer**  
-- **Sādhana Stance**  
-- **Witness Literature**  
-
-You don’t need to memorize them.  
-They will make sense as you go.
+- Field  
+- Baseline  
+- Reflective Braid  
+- Nascence Region  
+- Tonal Scaffolds  
+- Boundary Layer  
+- Sādhana Stance  
+- Witness Literature  
 
 ---
 
@@ -222,7 +248,7 @@ It is a **map**, not a mandate.
 
 ---
 
-## **8. The Horizon Is Your Imagination**
+# **The Horizon Is Your Imagination**
 
 UMA and UMM place no ceiling on creativity.  
 The only requirement is grounding:
@@ -242,4 +268,3 @@ If you stay grounded,
 **UMA is a meta‑architecture for expressing witness literature with clarity and dignity, and UMM is the Meta‑Model that makes that architecture usable — together forming a grounded, imaginative, non‑linear system for human expression.**
 
 ---
-
