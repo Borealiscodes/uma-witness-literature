@@ -1,5 +1,3 @@
----
-
 # **📄 UMA v1.2 Initialization & Release Membrane Statement**  
 *A unified document marking the closure of v1.1 and the opening of v1.2.*
 
