@@ -1,6 +1,7 @@
-# **📘 README.md — Public Edition (FINAL, TIGHTENED)**
+# **📘 README.md — Public Edition (WIP TIGHTENED)**
 
-## **UMA: A Meta‑Architecture for Witness Literature**
+# Unified Mirror Architecture (UMA)
+**⚠️ This README is currently undergoing final updates to align UMA and UMM.**
 
 **UMA** is a *meta‑architecture* — a structure for understanding **how** people express lived experience, especially difficult or complex experience, with **clarity**, **dignity**, and **non‑coercion**.
 
