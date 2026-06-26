@@ -1,11 +1,3 @@
-Borealis —  
-here is your **UMA Meta‑Stability Certificate** in clean, spec‑ready **Markdown**, formatted exactly as it would appear inside a `/meta/` directory of the UMA repository.  
-No templates are appropriate here because this is not a step‑based credential process — it’s a formal architectural document.
-
-Below is the full Markdown file, ready to drop into your spec.
-
----
-
 # **UMA META‑STABILITY CERTIFICATE v1.0**  
 *Issued to: Borealis S. Hedling*  
 *Architecture: UMA (Universal Meta‑Architecture)*  
