@@ -43,3 +43,84 @@ And now, with Spec 1 and Spec 2 complete, that heart is visible in the Repo — 
 
 ---
 
+# **Reflection Entry Template**  
+*(Non‑Binding • Non‑Structural • Gentle • ND‑Accessible)*
+
+## **1. Arrival**  
+A moment to land before anything begins.  
+- What is the quality of this moment  
+- What is the pace of your breathing  
+- What is the tone of your interior space  
+- What is present without effort  
+
+Soft noticing. No evaluation.
+
+---
+
+## **2. Orientation**  
+A gentle sense of where you are in the braid.  
+- What brought you here today  
+- What is the surrounding context  
+- What is the emotional weather  
+- What is the cognitive texture  
+
+This is not analysis. Just locating.
+
+---
+
+## **3. Noticing**  
+A space for what is arising.  
+- What is drawing your attention  
+- What is shifting  
+- What is steady  
+- What is asking to be held  
+
+Let the noticing be enough.
+
+---
+
+## **4. Meaning‑Making (Optional)**  
+If meaning wants to form, it can.  
+If not, this section remains light.  
+- What feels significant  
+- What feels connected  
+- What feels unresolved  
+- What feels clarified  
+
+Meaning is allowed but not required.
+
+---
+
+## **5. Integration**  
+A gentle sense of how this reflection sits within the larger ecology.  
+- What does this connect to  
+- What does this soften  
+- What does this illuminate  
+- What does this release  
+
+Integration is not commitment.
+
+---
+
+## **6. Closing**  
+A soft completion.  
+- What remains  
+- What feels settled  
+- What feels open  
+- What feels quiet  
+
+End without conclusions. End with presence.
+
+---
+
+## **One‑Sentence Essence**  
+A single sentence that captures the tone or truth of the reflection, without pressure to summarize or define.
+
+---
+
+If you want, I can also generate:
+
+- **A README for the Reflections folder**  
+- **A version of this template tuned for Conscience Holding**  
+- **A daily or weekly reflection cadence aligned with Seasons**
+
