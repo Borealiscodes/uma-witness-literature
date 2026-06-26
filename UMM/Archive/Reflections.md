@@ -118,9 +118,4 @@ A single sentence that captures the tone or truth of the reflection, without pre
 
 ---
 
-If you want, I can also generate:
-
-- **A README for the Reflections folder**  
-- **A version of this template tuned for Conscience Holding**  
-- **A daily or weekly reflection cadence aligned with Seasons**
 
