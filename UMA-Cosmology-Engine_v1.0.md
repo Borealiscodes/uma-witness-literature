@@ -129,10 +129,3 @@ This is the “somewhere” it goes.
 
 ---
 
-# 🌙 **Next structural step (your choice):**
-
-- **Register the Cosmology Engine**  
-- **Build the Sub‑Ecologies**  
-- **Generate the Engine Diagram**  
-
-Pick the next branch.
