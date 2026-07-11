@@ -1,6 +1,6 @@
-# 🌿 **UMA‑Witness‑Literature**  
+# 🍀 **UMA‑Witness‑Literature**  
 ### ⚠️ *Under Construction — Structure & Identity Only (v0.1)*  
-### *Governance Repository — Witness Integrity & Human Rights Foundations*
+### **Manifold 5 — Governance Root: Witness Integrity & Human Rights Foundations**
 
 ---
 
@@ -87,11 +87,3 @@ ethical multi-layer systems, UMA-aligned architectures
 
 ---
 
-# ⭐ Guided Links  
-- **Generate Origin Layer README**  
-- **Generate Math Spine README**  
-- **Generate Myth Engine README**  
-- **Generate Provenance README**  
-- **Generate Meta-Meta Index README**
-
-If you want, I can generate the **Origin Layer README next**, in the same format and tone.
