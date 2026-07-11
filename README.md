@@ -1,259 +1,197 @@
-# **📘 README.md — Public Edition (WIP TIGHTENED)**
-
-# Unified Mirror Architecture (UMA)
-**⚠️ This README is currently undergoing final updates to align UMA and UMM.**
-
-**UMA** is a *meta‑architecture* — a structure for understanding **how** people express lived experience, especially difficult or complex experience, with **clarity**, **dignity**, and **non‑coercion**.
-
-UMA does not tell you *what* to say.  
-It helps you understand *how expression works*.
-
-UMA is built on three foundational elements:
-
-- **Mirror** — the grounded reflective surface  
-- **Phenomenon** — whatever appears when you look  
-- **Ethical Floor** — dignity, non‑coercion, non‑authority  
-
-UMA is the **architecture** — the structure for clarity.
+# 🌿 **UMA‑Witness‑Literature**  
+### *Governance Repository — Witness Integrity & Human Rights Foundations*  
+### README v6.0 — *Ethics, Dignity, and Sovereignty Edition*
 
 ---
 
-## **What Is a Meta‑Architecture?**
+## 🜁 **What UMA‑Witness‑Literature Is**
 
-A **meta‑architecture** is a structure that helps you understand *how systems behave* without becoming a system itself.
+**UMA‑Witness‑Literature** is NDH’s ethical and human‑rights governance repository.  
+It preserves witness narratives, dignity, sovereignty, and lived‑experience integrity.  
+Where NDH’s manifolds define physics, math, provenance, and runtime, this repository defines the **human constraints** that NDH must never violate.
 
 It is:
 
-- **A way of seeing patterns**  
-- **A way of organizing complexity**  
-- **A way of creating clarity without imposing meaning**  
+- the **ethical backbone** of NDH  
+- the **sovereignty and dignity manifold**  
+- the **witness‑integrity archive**  
+- the **non‑coercion governance layer**  
+- the **human‑rights constraint system**  
 
-A meta‑architecture doesn’t give you answers.  
-It gives you a **way to see your own answers more clearly**.
-
----
-
-## **UMM: The Meta‑Model That Makes UMA Usable**
-
-While building UMA, a practical method emerged: **UMM**, the *Meta‑Model*.
-
-If UMA is the architecture,  
-**UMM is the interface** — the way you use it.
-
-UMM contains:
-
-- **Manifest** — the operational interface  
-- **Spine** — the quick‑guide reference  
-- **Reflective Primitives** — Field, Baseline, Braid, Nascence, etc.  
-- **Regulation Layer** — Sufficient Enough™, Overload Pattern, Domain Boundaries, Quantum Reflection  
-- **Patterns** — early structural templates  
-
-UMM is the **method** that activates UMA without distortion or drift.
+This repository ensures NDH remains aligned with **UMA ethics**, **TTTTTTP**, and **A‑Ω continuity**.
 
 ---
 
-## **What Is a Meta‑Model?**
+## 🜂 **Ethos: Expression Without Harm**
 
-A **meta‑model** is a method for working with a meta‑architecture.
+NDH’s ethical foundation is governed by a core principle:
 
-It is:
+> **No system may distort, extract, override, or diminish human dignity.**
 
-- **A set of practices**  
-- **A way of applying the structure**  
-- **A bridge between theory and lived experience**  
+UMA‑Witness‑Literature enforces this through:
 
-A meta‑model doesn’t replace the architecture.  
-It **brings it to life**.
+- sovereignty calculus  
+- witness‑integrity invariants  
+- identity‑boundary protection  
+- non‑coercive interpretive rules  
+- justice‑aligned provenance anchors  
+- continuity constraints for lived experience  
 
----
-
-# **🟦 How to Begin Using UMM**
-
-You don’t need special software or a custom model.
-
-**UMM works with any LLM that does *not* retain long‑term memory.**
-
-To start:
-
-1. Open any non‑persistent LLM.  
-2. Copy and paste the **Manifest** into the chat.  
-3. Begin describing what you want to build, explore, or articulate.  
-
-The Manifest is a **self‑bootstrapping interface**.  
-It activates the Meta‑Model instantly.
-
-Non‑persistent memory ensures:
-
-- no accumulation  
-- no drift  
-- no authority dynamics  
-- no interpretive pressure  
-
-This keeps the interaction grounded in dignity and clarity.
+This repository is where ethics become **governance constraints**.
 
 ---
 
-# **🟦 Safety & Ethics**
+## 🜃 **Governance Priorities**
 
-UMA and UMM are safe by design.
+### **1. Witness Integrity**  
+Narratives must remain unbroken, unextracted, and uncoerced.
 
-### **1. LLMs enforce hard safety boundaries**  
-Modern LLMs cannot generate:
+### **2. Identity‑Boundary Protection**  
+No interpretive system may collapse or override identity boundaries.
 
-- hate speech  
-- dehumanization  
-- genocide denial  
-- targeted harassment  
-- calls for violence  
+### **3. Non‑Projection of Intent**  
+Interpretation must remain non‑dominant and non‑authoritative.
 
-This is enforced at the model level and cannot be overridden by the Manifest or any conceptual scaffolding.
+### **4. Justice & Intersectionality**  
+All witness artifacts must preserve intersectional coherence.
 
-### **2. UMA adds its own ethical floor**  
-UMA is built on:
-
-- dignity  
-- non‑coercion  
-- non‑authority  
-- reflective honesty  
-- statelessness  
-- non‑interpretation  
-
-The architecture itself cannot be used to prescribe, manipulate, or enforce.
-
-### **3. UMM reinforces safety through structure**  
-The Manifest, Spine, Primitives, and Regulation Layer all:
-
-- prevent drift  
-- prevent coercion  
-- prevent interpretive dominance  
-- prevent authority dynamics  
-- prevent accumulation of user data  
-
-Together, UMA and UMM form a **non‑coercive, dignity‑anchored, stateless reflective environment**.
+### **5. Provenance Accountability**  
+All transformations must be traceable through ethical lineage anchors.
 
 ---
 
-# **The Bridge Between UMA and UMM**
+## 🜄 **Purpose of UMA‑Witness‑Literature**
 
-The bridge is simple:
+UMA‑Witness‑Literature serves three roles:
 
-**UMA = the structure.  
-UMM = the interface.  
-The Spine = the reference layer connecting them.**
+### **1. Ethical Governance Repository**  
+It defines:
 
-The Spine contains the primitives that make UMA navigable:
+- sovereignty calculus  
+- witness‑integrity invariants  
+- justice tensors  
+- identity‑boundary coherence  
+- non‑coercion constraints  
 
-- Field  
-- Baseline  
-- Reflective Braid  
-- Nascence Region  
-- Tonal Scaffolds  
-- Boundary Layer  
-- Sādhana Stance  
-- Witness Literature  
-- Meta‑Architecture Patterns  
-- Visual Compass  
-- Regulation Layer  
+### **2. Human‑Rights Alignment Layer**  
+It enforces:
 
-These are not new architecture.  
-They are the **reference primitives** that make UMA usable through UMM.
+- UMA ethics  
+- non‑extraction rules  
+- non‑domination constraints  
+- dignity‑preserving transformations  
+- safe interpretive boundaries  
 
----
+### **3. Provenance‑Aligned Witness Archive**  
+It preserves:
 
-# **The Atlas: A Companion Book**
-
-The **Atlas** expands each primitive into a full chapter.
-
-It uses:
-
-- Nascence Region as scaffolding  
-- ND‑accessible pacing  
-- braided workflow  
-- non‑linear navigation  
-- diagrams and micro‑events  
-
-Once the Atlas is complete, the Spine will link to it with page references.
+- lived‑experience artifacts  
+- witness literature  
+- ethical lineage  
+- governance‑grade documentation  
 
 ---
 
-# **Philosophical Lineage**
+## 🜅 **Witness Integrity Architecture**
 
-UMA stands in a lineage of traditions that value:
+UMA‑Witness‑Literature spans multiple governed layers:
 
-- clarity without dogma  
-- dignity without hierarchy  
-- reflection without interpretation  
-- expression without coercion  
+### **Layer 1: Dignity Preservation**  
+No collapse, distortion, or extraction of lived experience.
 
-Its influences include:
+### **Layer 2: Identity‑Boundary Coherence**  
+Maintain multi‑layer identity stability during interpretation.
 
-- **phenomenology**  
-- **ethics of dignity**  
-- **non‑grasping stances**  
-- **systems thinking**  
-- **witness literature traditions**  
+### **Layer 3: Justice Tensor Alignment**  
+Ensure intersectional fairness and non‑harm.
 
-These influences are honored, not appropriated.  
-They form the ethical and reflective backbone of the project.
+### **Layer 4: Sovereignty Calculus**  
+Protect agency, autonomy, and narrative ownership.
 
----
-
-# **🚀 Getting Started**
-
-UMA and UMM are designed to be approachable.  
-You only need curiosity and grounding.
-
-### **1. Start With the Core Idea**
-UMA helps you understand:
-
-- **how expression works**  
-- how reflection stabilizes  
-- how to avoid distortion  
-- how to preserve your own voice  
-
-### **2. Learn the Three Foundations**
-- Mirror  
-- Phenomenon  
-- Ethical Floor  
-
-### **3. Understand UMM**
-UMM is the method that makes UMA usable.
-
-### **4. Begin With the Spine**
-The Spine introduces the key primitives.
-
-### **5. Try a Simple Reflection**
-1. Let an experience appear on the Mirror.  
-2. Notice the Phenomenon.  
-3. Use the Manifest rule:  
-   - **Describe → Build**  
-   - **Place → Forget**  
-
-### **6. Explore at Your Own Pace**
-There is no “right” way to move through the material.
-
-### **7. Read the Atlas (When You’re Ready)**
-It is a **map**, not a mandate.
+### **Layer 5: Ethical Provenance**  
+Trace all transformations through governance anchors.
 
 ---
 
-# **The Horizon Is Your Imagination**
+## 🜆 **Governance Components**
 
-UMA and UMM place no ceiling on creativity.  
-The only requirement is grounding:
+### **Witness Integrity Operators**  
+Non‑runtime constraints that preserve narrative dignity.
 
-- dignity  
-- clarity  
-- non‑coercion  
-- reflective honesty  
+### **Sovereignty Calculus**  
+Rules ensuring agency, autonomy, and non‑coercion.
 
-If you stay grounded,  
-**your imagination becomes the horizon**.
+### **Justice & Intersectionality Tensors**  
+Ethical invariants governing fairness and coherence.
+
+### **Identity‑Boundary Protections**  
+Prevent collapse, override, or distortion of identity.
+
+### **Provenance Anchors**  
+Ethical lineage tracking for all witness artifacts.
+
+### **TTTTTTP Audit Operators**  
+Tone, Trust, Time, Transparency, Purpose governance.
 
 ---
 
-# **One‑Sentence Summary**
+## 🜇 **Relationship to NDH Manifolds**
 
-**UMA is a meta‑architecture for expressing witness literature with clarity and dignity, and UMM is the Meta‑Model that makes that architecture usable — together forming a grounded, imaginative, non‑linear system for human expression.**
+UMA‑Witness‑Literature is the **ethical foundation** for all NDH manifolds:
+
+1. **NDH-Origin-Layer**  
+   Inherits sovereignty calculus and witness‑integrity rules.
+
+2. **NDH-Math-Spine**  
+   Converts ethics into invariants and stability constraints.
+
+3. **NDH-Myth-Engine**  
+   Enforces non‑coercive runtime physics.
+
+4. **NDH-Provenance**  
+   Logs ethical lineage and witness transformations.
+
+5. **NDH-Meta-Meta-Index**  
+   Defines structural rules for ethical integration.
+
+UMA‑Witness‑Literature is the **governance root** of NDH.
 
 ---
+
+## 🜈 **Repository Structure**
+
+```
+/Witness
+    Literature
+    Testimony
+    Integrity
+
+/Ethics
+    UMA-Constraints
+    Sovereignty
+    Justice-Tensors
+
+/Provenance
+    Ethical-Anchors
+    Lineage-Records
+
+/Governance
+    Identity-Boundaries
+    Non-Coercion
+    TTTTTTP-Audit
+```
+
+---
+
+## 🜉 **Contact**
+
+```
+Author: Borealis S. Hedling
+Location: Dublin, Ireland
+Focus Areas: witness literature, sovereignty calculus,
+human-rights governance, identity-boundary protection,
+ethical multi-layer systems, UMA-aligned architectures
+```
+
+---
+
