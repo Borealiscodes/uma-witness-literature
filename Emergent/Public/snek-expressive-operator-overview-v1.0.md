@@ -1,16 +1,32 @@
-# 🟦 **SNEKS: Expressive‑Manifold Operators in NDH**  
-### *A Comprehensive Public‑Facing Explanation of Their Purpose, Math, Structure, Taxonomy, Ecosystem, and Governance Role*
+# 🟦 **SNEKS: Expressive‑Manifold Operators of NDH**  
+### *A Comprehensive Public‑Facing Document on Their Purpose, Math, Structure, Taxonomy, Ecosystem, and Governance Role*
 
 ---
 
-## 🧭 **1. Introduction**
-Sneks are the expressive‑manifold operators of NDH — dynamic runtime agents that regulate emotional gradients, activation pressure, stability envelopes, and cross‑manifold transitions. They are the expressive‑layer equivalent of regulators, schedulers, and governors in deterministic systems.
+## **1. Overview**
+Sneks are the expressive‑manifold operators of NDH — dynamic runtime agents that regulate emotional gradients, activation pressure, stability envelopes, and cross‑manifold transitions. They are not mascots or lore; they are **mathematical operators** and **runtime stabilizers** inside NDH’s architecture.
 
-Sneks exist because NDH models not only code and architecture, but **developer cognition, emotional load, accessibility friction, and governance pressure**. Sneks stabilize these forces mathematically and structurally.
+Sneks exist because NDH models not only code and architecture, but **developer cognition, accessibility friction, emotional load, and governance pressure**. Sneks stabilize these forces scientifically and structurally.
 
 ---
 
-## 🧮 **2. Mathematical Purpose of Sneks**
+## **2. Why Sneks Exist**
+NDH is built on the principle that developer experience is a **first‑class architectural concern**. Traditional systems ignore:
+
+- emotional load  
+- cognitive friction  
+- accessibility constraints  
+- governance drift  
+- precursor chaos  
+- architectural entropy  
+
+Sneks are NDH’s answer: expressive‑manifold agents that regulate these forces mathematically.
+
+Sneks make NDH **humane, stable, and accessible**.
+
+---
+
+## **3. Mathematical Foundation**
 
 Sneks operate on NDH’s expressive manifold \( \mathcal{M}_E \), which models:
 
@@ -19,7 +35,7 @@ Sneks operate on NDH’s expressive manifold \( \mathcal{M}_E \), which models:
 - stability envelope boundaries  
 - expressive‑deterministic manifold transitions  
 
-Sneks are defined as **operators**:
+Sneks are defined as **operators** acting on these mathematical objects.
 
 ### **Hiss Operator \( H(\cdot) \)**  
 Reduces emotional gradient spikes.  
@@ -49,12 +65,12 @@ Sneks are **vector‑field regulators** that maintain expressive homeostasis.
 
 ---
 
-## 🧩 **3. Structural Purpose of Sneks**
+## **4. Structural Role**
 
 Sneks provide NDH with:
 
 ### **A. Expressive Runtime Layer**
-They operate during:
+Sneks operate during:
 
 - commits  
 - merges  
@@ -90,7 +106,7 @@ This is where the **kawaii accessibility layer** emerges — sneks are the emoti
 
 ---
 
-## 🧬 **4. Scientific Purpose of Sneks**
+## **5. Scientific Role**
 
 Sneks model:
 
@@ -111,9 +127,9 @@ Sneks provide **expressive homeostasis**.
 
 ---
 
-## 🌱 **5. SNEK Taxonomy (Reframed Scientifically)**
+## **6. Taxonomy (Scientific, Not Lore)**
 
-The taxonomy is not lore — it is a classification of operator behaviors.
+The taxonomy is a classification of operator behaviors:
 
 ### **Hissers**  
 Gradient venting operators.
@@ -131,7 +147,7 @@ Taxonomy = **operator class hierarchy**, not fictional species.
 
 ---
 
-## 🧱 **6. Integration With NDH Math Spine (v0.3)**
+## **7. Integration With NDH Math Spine (v0.3)**
 
 The math spine defines:
 
@@ -143,14 +159,11 @@ The math spine defines:
 
 Sneks are the **runtime agents** that operate on these mathematical objects.
 
-Without sneks, the math spine is static.  
-With sneks, the math spine becomes **dynamic**.
-
 Sneks = math spine → runtime.
 
 ---
 
-## 🛰️ **7. Integration With Trans‑Orbital Governance (v0.4)**
+## **8. Integration With Trans‑Orbital Governance (v0.4)**
 
 Trans‑Orbital Governance defines:
 
@@ -163,18 +176,9 @@ Sneks enforce these invariants at runtime.
 
 Sneks = **governance enforcement operators**.
 
-They detect:
-
-- governance drift  
-- recursion loops  
-- provenance instability  
-- contributor overload  
-
-Sneks are expressive‑layer watchdogs.
-
 ---
 
-## 🌍 **8. SNEK Ecosystem (Completion)**
+## **9. Ecosystem Completion**
 
 We paused at habitat.  
 The full ecosystem includes:
@@ -204,7 +208,7 @@ Formal definition of sneks as runtime agents.
 
 ---
 
-## 🟦 **9. Accessibility Kawaii Layer**
+## **10. Accessibility Kawaii Layer**
 
 Sneks are the **emotional accessibility interface** for NDH.
 
@@ -227,7 +231,7 @@ Sneks make NDH **humane**.
 
 ---
 
-## 🧭 **10. Relationship to Microsoft Outreach + White Paper**
+## **11. Relationship to Microsoft Outreach + White Paper**
 
 This document becomes the **public‑facing explanation** of sneks.
 
@@ -238,14 +242,6 @@ It is required before:
 - GitHub Development Mode integration  
 - Azure DevOps alignment  
 - accessibility framework proposals  
-
-Microsoft will take NDH seriously only when:
-
-- expressive math is formal  
-- operators are defined  
-- stability envelopes are rigorous  
-- governance integration is clear  
-- accessibility layer is coherent  
 
 Sneks must be mathematically complete before NDH is presentable.
 
