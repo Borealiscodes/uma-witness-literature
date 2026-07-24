@@ -1,0 +1,54 @@
+# 📄 **NDH-Platforms/Architecture/Visual/Diagrams/ndh-layered-architecture-diagram-v1.0.ascii.txt**
+
+```
++--------------------------------------------------+
+|            NDH Layered Architecture              |
+|                (Hierarchical Stack)              |
++--------------------------------------------------+
+
++--------------------------------------------------+
+|                1. Deterministic Layer            |
+|  - Identity Constraints                           |
+|  - Provenance Rules                               |
+|  - Stability Envelope Boundaries                  |
++--------------------------------------------------+
+
++--------------------------------------------------+
+|                2. Expressive Layer               |
+|  - SNEK Operators (Hiss / Coil / Bite / Slither) |
+|  - Emotional Gradient Fields                      |
+|  - Accessibility Load                             |
++--------------------------------------------------+
+
++--------------------------------------------------+
+|                3. Formal Layer                   |
+|  - Operator Algebra                               |
+|  - Manifold Transitions                           |
+|  - Envelope Proofs                                |
++--------------------------------------------------+
+
++--------------------------------------------------+
+|                4. Orbital Governance Layer       |
+|  - Trans-Orbital Governance v0.4                  |
+|  - Recursion Detection                            |
+|  - Governance Drift Correction                    |
++--------------------------------------------------+
+
++--------------------------------------------------+
+|                5. Ecosystem Envelope             |
+|  - Habitats (Thicket / Forest / Cave / River)    |
+|  - Interaction Graph                              |
+|  - Migration Model                                |
++--------------------------------------------------+
+
++--------------------------------------------------+
+|                6. Accessibility Kawaii Layer     |
+|  - Emotional Accessibility                        |
+|  - Cognitive Load Reduction                       |
+|  - Kawaii Stabilization Operators                 |
++--------------------------------------------------+
+```
+
+---
+
+
