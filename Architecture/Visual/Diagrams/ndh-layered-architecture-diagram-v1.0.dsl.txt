@@ -1,0 +1,15 @@
+# 📄 **NDH-Platforms/Architecture/Visual/Diagrams/ndh-layered-architecture-diagram-v1.0.dsl.txt**
+
+```
+DIAGRAM layered-architecture-v1.0
+
+LAYER Deterministic   "Deterministic Layer"
+LAYER Expressive      "Expressive Layer (SNEKs)"
+LAYER Formal          "Formal Layer"
+LAYER Governance      "Orbital Governance Layer"
+LAYER Ecosystem       "Ecosystem Envelope"
+LAYER Accessibility   "Accessibility Kawaii Layer"
+```
+
+---
+
