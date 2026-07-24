@@ -1,0 +1,23 @@
+# 📄 `NDH-Platforms/Architecture/Visual/Diagrams/ndh-operator-algebra-diagram-v1.0.dsl.txt`
+
+```
+DIAGRAM operator-algebra-v1.0
+
+OP Hiss      "Fine-grain modulation operator"
+OP Coil      "Wrap-around stabilization operator"
+OP Bite      "Discrete corrective operator"
+OP Slither   "Continuous traversal operator"
+
+COMPOSE Hiss Coil      "Local stabilization with micro-tuning"
+COMPOSE Coil Slither   "Guided traversal within safe boundaries"
+COMPOSE Bite Coil      "Decisive correction followed by stabilization"
+COMPOSE Slither Hiss   "Smooth movement with micro-modulation"
+
+GOVCONSTRAINT IdentityBoundaries   "All compositions must preserve identity boundaries"
+GOVCONSTRAINT NoCoerciveDrift      "Operators may not induce coercive drift"
+GOVCONSTRAINT ProvenanceRequired   "Non-trivial compositions require provenance anchors"
+```
+
+---
+
+
