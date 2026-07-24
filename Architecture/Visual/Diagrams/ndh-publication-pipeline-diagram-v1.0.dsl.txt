@@ -1,0 +1,24 @@
+## 📄 `NDH-Platforms/Architecture/Visual/Diagrams/ndh-publication-pipeline-diagram-v1.0.dsl.txt`
+
+```txt
+DIAGRAM publication-pipeline-v1.0
+
+STAGE NDHManifold        "NDH Manifold"
+STAGE OSPOReview         "OSPO Review"
+STAGE GitHubDevMode      "GitHub Dev Mode"
+STAGE ExternalPublication "External Publication"
+STAGE FeedbackIteration  "Feedback and Iteration"
+
+FLOW NDHManifold OSPOReview          "Artifacts move from NDH manifold into OSPO validation"
+FLOW OSPOReview GitHubDevMode        "Validated artifacts enter GitHub Dev Mode for structuring"
+FLOW GitHubDevMode ExternalPublication "Canonical artifacts are published externally"
+FLOW ExternalPublication FeedbackIteration "External feedback informs iterative refinement"
+
+CONSTRAINT ProvenanceIntegrity   "All stages must preserve provenance integrity"
+CONSTRAINT SafetyAlignment       "Artifacts must align with trauma-informed safety requirements"
+CONSTRAINT GovernanceConsistency "Governance rules must remain consistent across transitions"
+CONSTRAINT MultimodalReadiness   "Artifacts must be prepared for multimodal export"
+```
+
+---
+
