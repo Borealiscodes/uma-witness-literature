@@ -1,0 +1,21 @@
+# 📄 **NDH-Platforms/Architecture/Visual/Diagrams/ndh-linear-roadmap-diagram-v1.0.dsl.txt**
+
+```
+DIAGRAM linear-roadmap-v1.0
+
+NODE MathSpine        "Math Spine Foundation"
+NODE Sneks            "SNEK Runtime Operators"
+NODE Ecosystem        "Ecosystem Envelope"
+NODE Accessibility    "Accessibility Kawaii Layer"
+NODE Governance       "Trans-Orbital Governance"
+NODE Publication      "Publication & Outreach"
+
+EDGE MathSpine -> Sneks
+EDGE Sneks -> Ecosystem
+EDGE Ecosystem -> Accessibility
+EDGE Accessibility -> Governance
+EDGE Governance -> Publication
+```
+
+---
+
