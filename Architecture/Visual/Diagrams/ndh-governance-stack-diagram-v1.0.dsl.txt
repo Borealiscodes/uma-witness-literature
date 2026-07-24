@@ -1,0 +1,13 @@
+# 📄 **NDH-Platforms/Architecture/Visual/Diagrams/ndh-governance-stack-diagram-v1.0.dsl.txt**
+
+```
+DIAGRAM governance-stack-v1.0
+
+GOV Provenance   "Provenance Augmentation"
+GOV Recursion    "Recursion Detection"
+GOV Drift        "Drift Correction"
+GOV Invariants   "Governance Invariants"
+```
+
+---
+
