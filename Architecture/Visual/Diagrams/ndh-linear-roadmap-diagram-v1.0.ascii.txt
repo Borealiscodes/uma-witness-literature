@@ -1,0 +1,61 @@
+# 📄 **NDH-Platforms/Architecture/Visual/Diagrams/ndh-linear-roadmap-diagram-v1.0.ascii.txt**
+
+```
++--------------------------------------------------+
+|                1. Math Spine                     |
+|                                                  |
+|  - Expressive Manifold                           |
+|  - Gradient Fields                                |
+|  - Pressure Tensors                               |
+|  - Stability Envelopes                            |
++---------------------------+------------------------+
+                            |
+                            v
++--------------------------------------------------+
+|              2. SNEK Operators                    |
+|                                                  |
+|  - Hiss / Coil / Bite                              |
+|  - Slither Runtime Ops                             |
+|  - Expressive Regulation                           |
++---------------------------+------------------------+
+                            |
+                            v
++--------------------------------------------------+
+|             3. Ecosystem Envelope                 |
+|                                                  |
+|  - Habitats & Interaction Graph                   |
+|  - Migration Model                                 |
+|  - Ecosystem Invariants                            |
++---------------------------+------------------------+
+                            |
+                            v
++--------------------------------------------------+
+|            4. Accessibility Layer                 |
+|                                                  |
+|  - Emotional Accessibility                         |
+|  - Cognitive Load Support                          |
+|  - Kawaii Stabilization                            |
++---------------------------+------------------------+
+                            |
+                            v
++--------------------------------------------------+
+|            5. Orbital Governance                  |
+|                                                  |
+|  - Provenance Augmentation                         |
+|  - Recursion Correction                            |
+|  - Governance Stability                             |
++---------------------------+------------------------+
+                            |
+                            v
++--------------------------------------------------+
+|          6. Publication & Outreach                |
+|                                                  |
+|  - NDH Technical White Paper                       |
+|  - Microsoft OSPO Packet                           |
+|  - GitHub Dev Mode Spec                            |
++--------------------------------------------------+
+```
+
+---
+
+
