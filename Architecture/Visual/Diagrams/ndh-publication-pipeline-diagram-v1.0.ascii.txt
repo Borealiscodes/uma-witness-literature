@@ -1,0 +1,43 @@
+### 📄 `NDH-Platforms/Architecture/Visual/Diagrams/ndh-publication-pipeline-diagram-v1.0.ascii.txt`
+
+```txt
++--------------------------------------------------------------+
+|                 NDH Publication Pipeline v1.0                |
++--------------------------------------------------------------+
+
++--------------------------------------------------------------+
+|                         NDH Manifold                         |
+|  - Expressive + formal architecture artifacts                 |
+|  - Governance-anchored specifications                         |
+|  - Stability envelope and operator algebra                    |
++--------------------------------------------------------------+
+
++--------------------------------------------------------------+
+|                         OSPO Review                          |
+|  - Safety and governance validation                           |
+|  - Provenance and licensing checks                            |
+|  - Trauma-informed design alignment                           |
++--------------------------------------------------------------+
+
++--------------------------------------------------------------+
+|                        GitHub Dev Mode                       |
+|  - Repository structuring and refactoring                     |
+|  - Canonical artifact publication                             |
+|  - CI/CD for diagrams and DSL renderers                       |
++--------------------------------------------------------------+
+
++--------------------------------------------------------------+
+|                      External Publication                    |
+|  - Documentation and knowledge base export                    |
+|  - Multimodal (visual, haptic, narrative) channels            |
+|  - Community and ecosystem integration                        |
++--------------------------------------------------------------+
+
++--------------------------------------------------------------+
+|                      Feedback and Iteration                  |
+|  - Community-informed refinements                             |
+|  - Governance and safety updates                              |
+|  - Manifold and envelope recalibration                        |
++--------------------------------------------------------------+
+```
+
