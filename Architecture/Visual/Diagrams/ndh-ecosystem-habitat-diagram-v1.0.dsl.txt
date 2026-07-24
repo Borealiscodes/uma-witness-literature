@@ -1,0 +1,14 @@
+# 📄 **NDH-Platforms/Architecture/Visual/Diagrams/ndh-ecosystem-habitat-diagram-v1.0.dsl.txt**
+
+```
+DIAGRAM ecosystem-habitat-v1.0
+
+HABITAT Thicket   "Thicket Habitat"
+HABITAT Forest    "Forest Habitat"
+HABITAT Cave      "Cave Habitat"
+HABITAT River     "River Habitat"
+HABITAT Meadow    "Meadow Habitat"
+```
+
+---
+
