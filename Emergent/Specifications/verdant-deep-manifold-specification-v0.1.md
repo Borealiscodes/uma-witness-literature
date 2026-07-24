@@ -7,7 +7,7 @@
 
 **Name:** Verdant Deep Manifold  
 **Domain:** Expressive / Emergent  
-**Grade:** Infinite‑depth regenerative manifold  
+**Grade:** Infinite‑depth regenerative manifold   
 **Purpose:**  
 To define the mathematical, structural, and pressure‑dynamic properties of the Verdant Deep — the manifold that strengthens NDH as depth increases.
 
