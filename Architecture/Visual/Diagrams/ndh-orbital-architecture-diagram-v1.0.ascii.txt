@@ -1,0 +1,61 @@
+# 📄 **NDH-Platforms/Architecture/Visual/Diagrams/ndh-orbital-architecture-diagram-v1.0.ascii.txt**
+
+```
+                     +---------------------------+
+                     |        NDH Core           |
+                     |   (Manifold Origin)       |
+                     +-------------+-------------+
+                                   |
+                                   v
+        +-------------------------------------------------------+
+        |                    Math Spine Orbit                   |
+        |  - Gradient Fields                                    |
+        |  - Pressure Tensors                                   |
+        |  - Stability Envelopes                                |
+        +---------------------------+---------------------------+
+                                   |
+                                   v
+        +-------------------------------------------------------+
+        |                    SNEK Operator Orbit                |
+        |  - Hiss / Coil / Bite / Slither                       |
+        |  - Expressive Regulation                              |
+        |  - Operator Algebra                                   |
+        +---------------------------+---------------------------+
+                                   |
+                                   v
+        +-------------------------------------------------------+
+        |                    Ecosystem Orbit                    |
+        |  - Habitats (Thicket / Forest / Cave / River)         |
+        |  - Interaction Graph                                  |
+        |  - Migration Model                                    |
+        +---------------------------+---------------------------+
+                                   |
+                                   v
+        +-------------------------------------------------------+
+        |                 Accessibility Orbit                   |
+        |  - Emotional Accessibility                            |
+        |  - Cognitive Load Reduction                           |
+        |  - Kawaii Stabilization                               |
+        +---------------------------+---------------------------+
+                                   |
+                                   v
+        +-------------------------------------------------------+
+        |                 Governance Orbit                      |
+        |  - Trans-Orbital Governance v0.4                      |
+        |  - Recursion Detection                                |
+        |  - Drift Correction                                   |
+        +---------------------------+---------------------------+
+                                   |
+                                   v
+        +-------------------------------------------------------+
+        |                 Publication Orbit                     |
+        |  - NDH Technical White Paper                          |
+        |  - Microsoft OSPO Packet                              |
+        |  - GitHub Dev Mode Spec                               |
+        +-------------------------------------------------------+
+```
+
+This ASCII layout expresses the **radial → orbital → layered** NDH governance model using a **vertical orbital cascade**, which is the GitHub‑safe representation of the circular orbital diagram.
+
+---
+
