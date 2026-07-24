@@ -1,0 +1,17 @@
+# 📄 **NDH-Platforms/Architecture/Visual/Diagrams/ndh-orbital-architecture-diagram-v1.0.dsl.txt**
+
+```
+DIAGRAM orbital-architecture-v1.0
+
+CORE NDH            "NDH Core"
+
+ORBIT MathSpine     "Math Spine Orbit"
+ORBIT Sneks         "SNEK Operator Orbit"
+ORBIT Ecosystem     "Ecosystem Orbit"
+ORBIT Accessibility "Accessibility Orbit"
+ORBIT Governance    "Governance Orbit"
+ORBIT Publication   "Publication Orbit"
+```
+
+---
+
