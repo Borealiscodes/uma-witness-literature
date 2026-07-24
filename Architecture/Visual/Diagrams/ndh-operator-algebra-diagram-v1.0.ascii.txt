@@ -1,0 +1,55 @@
+### 📄 `NDH-Platforms/Architecture/Visual/Diagrams/ndh-operator-algebra-diagram-v1.0.ascii.txt`
+
+```txt
++--------------------------------------------------------------+
+|                 NDH Operator Algebra Diagram                 |
+|                         (v1.0 ASCII)                         |
++--------------------------------------------------------------+
+
++--------------------------------------------------------------+
+|                            Hiss                              |
+|  - Fine-grain modulation of expressive fields                 |
+|  - Low-amplitude, high-frequency operator                     |
+|  - Used for micro-adjustment of emotional envelopes           |
++--------------------------------------------------------------+
+
++--------------------------------------------------------------+
+|                            Coil                              |
+|  - Wrap-around stabilization of local manifolds               |
+|  - Encircles drift-prone regions                              |
+|  - Used for containment and gentle boundary reinforcement     |
++--------------------------------------------------------------+
+
++--------------------------------------------------------------+
+|                            Bite                              |
+|  - Sharp, discrete intervention operator                      |
+|  - High-intensity, short-duration action                      |
+|  - Used for decisive correction within governed envelopes     |
++--------------------------------------------------------------+
+
++--------------------------------------------------------------+
+|                           Slither                            |
+|  - Smooth traversal across habitats and layers                |
+|  - Continuous path-following operator                         |
+|  - Used for non-coercive movement through NDH manifolds       |
++--------------------------------------------------------------+
+
++--------------------------------------------------------------+
+|                      Algebraic Relations                     |
+|  - Hiss ∘ Coil: local stabilization with fine-grain tuning    |
+|  - Coil ∘ Slither: guided traversal within safe boundaries    |
+|  - Bite ∘ Coil: corrective action followed by re-stabilizing  |
+|  - Slither ∘ Hiss: smooth movement with micro-modulation      |
++--------------------------------------------------------------+
+
++--------------------------------------------------------------+
+|                    Governance Constraints                    |
+|  - All compositions must preserve identity boundaries         |
+|  - No operator may induce coercive drift                      |
+|  - Provenance anchors required for non-trivial compositions   |
++--------------------------------------------------------------+
+```
+
+---
+
+
