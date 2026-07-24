@@ -1,89 +1,115 @@
-# 🍀 **UMA‑Witness‑Literature**  
-### ⚠️ *Under Construction — Structure & Identity Only (v0.1)*  
-### **Manifold 5 — Governance Root: Witness Integrity & Human Rights Foundations**
+# **README.md — NDH‑Platforms**  
+### **NDH‑Platform Foundation**  
+### **Status: Under Construction 🏗 · Provenance Preserved**
 
 ---
 
-## 🜁 **1. Purpose (Structural Placeholder)**  
-This repository provides the **ethical and human‑rights grounding** for NDH.  
-It defines the **governance constraints** that NDH must respect as it grows.
+## **1. Purpose (Stabilization Phase)**  
+NDH‑Platforms serves as the **foundation layer** for NDH’s governance, documentation, and cross‑system alignment.  
+It is the future home of:
 
-*(Content added later at human pace.)*
+- Orbital governance  
+- provenance‑preserving documentation  
+- emergent interpretive scaffolding  
+- cross‑layer structural coherence  
 
----
+At present, this repository is in a **stabilization and triage phase**.  
+Documentation across NDH was created under duress, and this repo reflects that history.
 
-## 🜂 **2. Identity Statement (Structural Placeholder)**  
-UMA‑Witness‑Literature is the **governance root** of NDH.  
-It preserves witness narratives, dignity, sovereignty, and lived‑experience integrity.
-
-*(Content added later at human pace.)*
-
----
-
-## 🜃 **3. Core Sections (Structural Placeholders)**
-
-### **3.1 Witness Integrity**  
-[slot — future content]
-
-### **3.2 Sovereignty & Agency**  
-[slot — future content]
-
-### **3.3 Ethics & Non‑Coercion**  
-[slot — future content]
-
-### **3.4 Justice & Intersectionality**  
-[slot — future content]
-
-### **3.5 Provenance & Lineage**  
-[slot — future content]
+**We preserve provenance, not erase it.**
 
 ---
 
-## 🜄 **4. Repository Structure (Directory Layout)**  
+## **2. Provenance Acknowledgment**  
+This repository contains early conceptual material, including legacy UMA/Witness‑Literature structures, emergent case studies, and governance placeholders created during periods of high pressure.
+
+These documents remain part of NDH’s lineage and will be **retained**, **reviewed**, and **integrated** only after triage.
+
+Nothing is removed.  
+Nothing is overwritten.  
+Nothing is forced into premature structure.
+
+Provenance is a core NDH invariant.
+
+---
+
+## **3. Current State (Under Construction 🏗)**  
+NDH‑Platforms is actively being stabilized.  
+The following conditions are acknowledged:
+
+- Orbital documents are currently distributed across multiple repos.  
+- Emergent case studies exist in Trauma‑Informed‑Systems‑Design.  
+- NDH‑TIDS has been created and will later interface with Platforms.  
+- The Unified NDH Roadmap is intentionally deferred.  
+- Documentation is uneven, fragmented, and partially conceptual.  
+- No migration or restructuring will occur until triage is complete.
+
+This repository is **not expected to be pristine** at this time.
+
+---
+
+## **4. Role of NDH‑Platforms (Forward‑Looking)**  
+Once triage is complete, NDH‑Platforms will become the home of:
+
+- **Orbital Systems**  
+  - Operator Integration Document (OID)  
+  - Provenance Preservation Protocol (OPPP)  
+  - Simulation Readiness Document (OSRD)
+
+- **Emergent Layer Documentation**  
+  - tonal scaffolding  
+  - interpretive interfaces  
+  - dignity‑aligned case studies  
+
+- **Cross‑Layer Governance**  
+  - NDH‑CORE → TIDS → Orbital alignment  
+  - provenance‑safe routing  
+  - structural coherence
+
+This is a **future state**, not a current requirement.
+
+---
+
+## **5. Repository Structure (Placeholder Only)**  
 ```
-/Witness
-    Literature
-    Testimony
-    Integrity
+/Orbital
+    OID (placeholder)
+    OPPP (placeholder)
+    OSRD (placeholder)
 
-/Ethics
-    UMA-Constraints
-    Non-Coercion
-    Sovereignty
+/Emergent
+    tonal-scaffolding (placeholder)
+    interpretive-interfaces (placeholder)
 
-/Justice
-    Intersectionality
-    Protection
-
-/Provenance
-    Ethical-Anchors
-    Lineage-Records
+/Governance
+    provenance (placeholder)
+    alignment (placeholder)
 ```
 
-*(Folders exist as structure only — content added gradually.)*
+These folders exist only as **structural placeholders**.  
+Content will be added gradually, at a human pace.
 
 ---
 
-## 🜅 **5. Notes (Nye‑Style Teaching Commentary)**  
-Think of this repository like a **library being built**.  
-The shelves are in place.  
-The rooms are labeled.  
-The lighting is installed.  
-But the books — the lived experience, the ethical guidance, the witness narratives — arrive slowly, carefully, and with respect.
+## **6. Notes (Provenance & Triage)**  
+NDH‑Platforms is a **living repository**.  
+It reflects:
 
-You’re not rushing meaning.  
-You’re building a place where meaning can safely live.
+- the pressure under which NDH was first articulated  
+- the conceptual scaffolding that emerged during duress  
+- the early governance instincts that shaped NDH’s ethical spine  
+- the ongoing need for gentle consolidation rather than rapid construction
+
+This README marks the beginning of a **calm, provenance‑aligned triage phase**.
 
 ---
 
-## 🜆 **6. Contact (Placeholder)**  
+## **7. Contact (Placeholder)**  
 ```
 Author: Borealis S. Hedling
 Location: Dublin, Ireland
-Focus Areas: witness literature, sovereignty calculus,
-human-rights governance, identity-boundary protection,
-ethical multi-layer systems, UMA-aligned architectures
+Focus: NDH governance, provenance systems, 
+cross-layer documentation, ethical architectures
 ```
 
 ---
-
