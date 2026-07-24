@@ -1,0 +1,18 @@
+### 📄 `NDH-Platforms/Architecture/Visual/Diagrams/ndh-stability-envelope-diagram-v1.0.dsl.txt`
+
+```txt
+DIAGRAM stability-envelope-v1.0
+
+ENVELOPE InnerComfort        "Inner Comfort Envelope"
+LAYER    CognitiveStability  "Cognitive Stability Layer"
+LAYER    ExpressiveStability "Expressive Stability Layer"
+LAYER    GovernanceStability "Governance Stability Layer"
+ENVELOPE OuterSafety         "Outer Safety Envelope"
+
+CONSTRAINT EmotionalSafetyBaseline      "Emotional safety must be preserved within Inner Comfort Envelope"
+CONSTRAINT NonCoerciveInteractions      "Interactions must remain non-coercive across all layers"
+CONSTRAINT DriftResistance              "Transitions must be drift-resistant between adjacent layers"
+CONSTRAINT ProvenanceAnchoredCorrections "Corrections must be provenance-anchored in Governance Stability Layer"
+CONSTRAINT CrossLayerConsistency        "Behavior must remain consistent across all envelopes and layers"
+```
+
