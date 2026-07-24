@@ -1,0 +1,38 @@
+# 📄 **NDH-Platforms/Architecture/Visual/Diagrams/ndh-governance-stack-diagram-v1.0.ascii.txt**
+
+```
++--------------------------------------------------------------+
+|                    NDH Governance Stack v1.0                 |
++--------------------------------------------------------------+
+
++--------------------------------------------------------------+
+|                    Provenance Augmentation                   |
+|  - Dual-hash provenance                                       |
+|  - Artifact lineage tracking                                   |
+|  - Stability envelope anchoring                                |
++--------------------------------------------------------------+
+
++--------------------------------------------------------------+
+|                    Recursion Detection                       |
+|  - Loop boundary scanning                                      |
+|  - Drift detection operators                                   |
+|  - Recursive envelope guards                                   |
++--------------------------------------------------------------+
+
++--------------------------------------------------------------+
+|                    Drift Correction                          |
+|  - Orbital governance stabilizers                              |
+|  - Operator realignment                                        |
+|  - Envelope correction pathways                                |
++--------------------------------------------------------------+
+
++--------------------------------------------------------------+
+|                    Governance Invariants                     |
+|  - Deterministic rule set                                      |
+|  - Non-negotiable safety constraints                           |
+|  - Cross-layer consistency enforcement                         |
++--------------------------------------------------------------+
+```
+
+---
+
