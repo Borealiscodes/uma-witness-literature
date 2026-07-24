@@ -5,7 +5,7 @@
 
 ## **1. Case Study Identity**
 
-**Name:** Sequential Triad Preparation Case Study v0.1  
+**Name:** Sequential Triad Preparation Case Study v0.1   
 **Domain:** Emergent/Case-Studies  
 **Purpose:**  
 To document the emergent behaviors, manifold stabilization patterns, and expressive‑to‑governance transitions that demonstrate **why NDH must generate triad components sequentially** rather than fusing them prematurely.
